@@ -1,12 +1,12 @@
 {
   "root": {
-    "name": "wprn",
-    "fullName": "World Pandemic Research Network",
-    "subtitle": "Public initiative to publish and share in one single place the list of all research initiatives and surveys about the current pandemic of Covid-19 coronavirus.",
-    "description": "Public initiative to publish and share in one single place the list of all research initiatives and surveys about the current pandemic of Covid-19 coronavirus.",
+    "name": "ipsp",
+    "fullName": "International Platform for Social Progress",
+    "subtitle": "We gather thinkers and doers worldwide to design forward-looking solutions promoting social progress.",
+    "description": "We gather thinkers and doers worldwide to design forward-looking solutions promoting social progress.",
     "reCaptcha": "6Lc_xuUUAAAAALwowUq0cC0wFtFnZ2NCi3UH4i1j",
     "url": "https://wprn.org",
-    "splash_title": "Societal impacts and aftermath of Covid-19:<br> A global searchable directory",
+    "splash_title": "Collective Intelligence for Action",
     "item_sg": "Project",
     "item_pl": "Projects",
     "isBranch": false,
