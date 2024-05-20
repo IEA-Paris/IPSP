@@ -1,33 +1,33 @@
 {
   "root": {
-    "name": "ipsp",
-    "fullName": "International Platform for Social Progress",
-    "subtitle": "We gather thinkers and doers worldwide to design forward-looking solutions promoting social progress.",
-    "description": "We gather thinkers and doers worldwide to design forward-looking solutions promoting social progress.",
+    "name": "thesocioscope",
+    "fullName": "The Socioscope",
+    "subtitle": "",
+    "description": "",
     "reCaptcha": "6Lc_xuUUAAAAALwowUq0cC0wFtFnZ2NCi3UH4i1j",
-    "url": "https://wprn.org",
-    "splash_title": "Collective Intelligence for Action",
+    "url": "https://thesocioscope.org",
+    "splash_title": "",
     "item_sg": "Project",
     "item_pl": "Projects",
     "isBranch": false,
-    "titleInLogo": false,
-    "titleBackdrop": true,
+    "titleInLogo": true,
+    "titleBackdrop": false,
     "statsImage": "parallax.jpg",
     "logo": {
-      "file": "logo.png",
-      "fileSmallLight": "logo_light.svg",
-      "fileSmallDark": "logo_dark.svg",
+      "file": "thesocioscope.png",
+      "fileSmallLight": "icon.png",
+      "fileSmallDark": "icon.png",
       "sizes": {
-        "xs": "20vw",
-        "sm": "20vw",
-        "md": "15vw",
-        "lg": "10vw",
-        "xl": "10vw"
+        "xs": "45vw",
+        "sm": "30vw",
+        "md": "25vw",
+        "lg": "20vw",
+        "xl": "20vw"
       }
     },
     "event": {
       "active": false,
-      "name": "#WPRN21",
+      "name": "",
       "color": "#F79256"
     },
     "fields": {
@@ -53,24 +53,24 @@
       "referents": true,
       "publicAlerts": true,
       "projectAlerts": true,
-      "teaser": ""
+      "teaser": "lKzvFrxlQZw"
     },
     "i18n": {
       "default": "fr"
     },
     "count": {
-      "institutions": 426,
-      "referents": 113
+      "institutions": 16,
+      "referents": 17
     },
     "font": {
       "family": {
-        "title": "Merriweather:100, 300, 400, 500, 700, 900",
-        "body": "Open Sans"
+        "title": "Poppins:100,300,400,500,700,900",
+        "body": "Nunito Sans"
       },
       "fallback": "sans-serif"
     },
     "splash": {
-      "colour1": "#2196f3",
+      "colour1": "#000",
       "colour2": "#144DDB",
       "count": 3,
       "dy": 0.05,
@@ -80,37 +80,38 @@
       "scale": 0.11,
       "speed": 0.05,
       "video": true,
-      "file": "/splash.mp4"
+      "file": "/splash.webm",
+      "poster": "/poster.png"
     },
     "theme": {
       "dark": false,
       "themes": {
         "light": {
-          "primary": "#2196f3",
+          "primary": "#43A047",
           "secondary": "#424242",
-          "accent": "#82B1FF",
-          "error": "#FF5252",
-          "info": "#2196F3",
-          "success": "#4CAF50",
+          "accent": "#006E90",
+          "error": "#E16036",
+          "info": "#ADCAD6",
+          "success": "#99C24D",
           "warning": "#FFC107"
         },
         "dark": {
-          "primary": "#2196f3",
+          "primary": "#81C784",
           "secondary": "#424242",
-          "accent": "#424242",
-          "info": "#2196f3",
-          "warning": "#FF8F00",
+          "accent": "#006E90",
+          "info": "#ADCAD6",
+          "warning": "#FFC107",
           "error": "#D84315",
-          "success": "#00E676"
+          "success": "#99C24D"
         }
       }
     }
   },
   "referent": {
-    "name": "R-WPRN",
-    "fullName": "World Pandemic Research Network",
-    "description": "Public initiative to publish and share in one single place the list of all research initiatives and surveys about the current pandemic of Covid-19 coronavirus.",
+    "name": "r-thesocioscope",
+    "fullName": "TheSocioscope referent website",
+    "description": "Repository of the Initiatives for Sustainability",
     "reCaptcha": "6Lc_xuUUAAAAALwowUq0cC0wFtFnZ2NCi3UH4i1j",
-    "url": "https://referent.wprn.org"
+    "url": "https://referent.thesocioscope.org"
   }
 }

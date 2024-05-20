@@ -1,5 +1,5 @@
 export default [
-  {
+  /*  {
     code: 'de',
     iso: 'de',
     name: 'German',
@@ -19,22 +19,22 @@ export default [
     name: 'Spanish',
     file: 'es.json',
     dir: 'ltr',
+  }, */
+  {
+    code: "en",
+    iso: "en-US",
+    name: "English",
+    file: "en.json",
+    dir: "ltr",
   },
   {
-    code: 'en',
-    iso: 'en-US',
-    name: 'English',
-    file: 'en.json',
-    dir: 'ltr',
+    code: "fr",
+    iso: "fr",
+    name: "French",
+    file: "fr.json",
+    dir: "ltr",
   },
-  {
-    code: 'fr',
-    iso: 'fr',
-    name: 'French',
-    file: 'fr.json',
-    dir: 'ltr',
-  },
-
+  /* 
   {
     code: 'it',
     iso: 'it-IT',
@@ -77,5 +77,5 @@ export default [
     name: 'Chinese',
     file: 'zh.json',
     dir: 'ltr',
-  },
+  }, */
 ]
