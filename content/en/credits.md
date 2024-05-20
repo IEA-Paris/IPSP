@@ -2,13 +2,13 @@
 title: Credits
 ---
 
-TheSocioscope.org is a collective effort to promote scientific collaboration and knowledge advancement. It was originated by [Paris IAS](https://www.paris-iea.fr) and the [RFIEA Foundation](http://rfiea.fr/en).
+IPSP is a collective effort to promote scientific collaboration and knowledge advancement. It was originated by [Paris IAS](https://www.paris-iea.fr) and the [RFIEA Foundation](http://rfiea.fr/en).
 
-TheSocioscope.org thanks all those whose contribution and collective intelligence provide us all with this shared resource. Special thanks to Sophie de Bonis, IBM's design lead for the UX advice.
+IPSP thanks all those whose contribution and collective intelligence provide us all with this shared resource. Special thanks to Sophie de Bonis, IBM's design lead for the UX advice.
 
 This is a non-profit public-funded initiative.
 
-We welcome donations to build a non-rival scientific public good. If you are interested, please contact: [donations@TheSocioscope.org](mailto:donations@TheSocioscope.org).
+We welcome donations to build a non-rival scientific public good. If you are interested, please contact: [donations@IPSP](mailto:donations@IPSP).
 
 This website and logo, as well as its infrastructure, have been designed by [Antoine Cordelois](https://www.linkedin.com/in/antoine-cordelois/?locale=en_US). The frontend is static/lambda-generated and is powered by [Nuxt](https://nuxtjs.org/) and [Vuetify](http://vuetifyjs.com) .
 

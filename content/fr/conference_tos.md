@@ -11,9 +11,9 @@ Au cours de la conférence, les présentateurs discuteront de leurs projets de r
 
 ## COMMENT ?
 
-Pour participer, [inscrivez votre projet d'](https://thesocioscope.org/register) étude de l'impact de développement durable, ainsi qu'un résumé de 2000 caractères maximum et une présentation vidéo de 5 minutes de votre travail avant le 11 octobre (voir les instructions détaillées [ici](/conference/video_guidance) ).
+Pour participer, [inscrivez votre projet d'](https://IP4SP.org/register) étude de l'impact de développement durable, ainsi qu'un résumé de 2000 caractères maximum et une présentation vidéo de 5 minutes de votre travail avant le 11 octobre (voir les instructions détaillées [ici](/conference/video_guidance) ).
 
-Tous les projets de recherche soumis au **\#TheSocioscope21** seront présentés sur le site Web du TheSocioscope et toutes les présentations vidéo seront librement accessibles à tous.
+Tous les projets de recherche soumis au **\#IPSP21** seront présentés sur le site Web du IPSP et toutes les présentations vidéo seront librement accessibles à tous.
 
 ## QUI ?
 

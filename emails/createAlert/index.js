@@ -13,7 +13,7 @@ module.exports = (
   return {
     logo,
     unsub: true,
-    link: `https://TheSocioscope.org/edit/${pubId}/${key}`,
+    link: `https://IPSP.org/edit/${pubId}/${key}`,
     preview: t.subject,
     emailSubject: t.subject,
     content: `<p>${t["dear"]} ${firstName} ${lastName},</p>
@@ -42,7 +42,7 @@ module.exports = (
    ${t["as-you-requested-you-will-be-notified"]} ${periodicity.toLowerCase()} ${
       t["by-email-of-projects-matching-your-criteria"]
     }.
-  https://TheSocioscope.org/verify/${pubId}/${key} 
+  https://IPSP.org/verify/${pubId}/${key} 
   ${
     t[
       "you-can-edit-or-remove-this-alert-any-time-using-the-project-edition-link-included-at-the-end-of-this-email"
@@ -52,7 +52,7 @@ module.exports = (
   
   ${t["4"]},
 
-  Ana.Nisow, Automatic news agent, Notifying interesting stuff on TheSocioscope,
+  Ana.Nisow, Automatic news agent, Notifying interesting stuff on IPSP,
   ${t["5"]}.`,
   }
 }

@@ -3,9 +3,9 @@ title: Conseils pour les notes et articles de recherche
 version: 6
 ---
 
-Les auteurs **qui ont participé à la conférence TheSocioscope21** auront la possibilité de publier des notes de recherche (WIP track) ou des articles complets (Paper track) dans les actes officiels de la conférence avec un ISSN, et les articles complets feront l'objet d'une évaluation par les pairs. Conformément à l'esprit interactif de la conférence, le processus d'évaluation des publications aura lieu après la conférence pour permettre aux auteurs d'intégrer les commentaires de leurs présentations dans la version finale de leur note ou de leur article. Le processus d'évaluation sera également communautaire, et nous vous encourageons à vous porter volontaire et à participer autant que possible.
+Les auteurs **qui ont participé à la conférence IPSP21** auront la possibilité de publier des notes de recherche (WIP track) ou des articles complets (Paper track) dans les actes officiels de la conférence avec un ISSN, et les articles complets feront l'objet d'une évaluation par les pairs. Conformément à l'esprit interactif de la conférence, le processus d'évaluation des publications aura lieu après la conférence pour permettre aux auteurs d'intégrer les commentaires de leurs présentations dans la version finale de leur note ou de leur article. Le processus d'évaluation sera également communautaire, et nous vous encourageons à vous porter volontaire et à participer autant que possible.
 
-- Les notes de recherche doivent utiliser le [modèle de note du TheSocioscope](/conference/TheSocioscope_Research_Note_Template.docx) et ne pas dépasser 2 pages, références non comprises. Les articles complets doivent utiliser le [modèle d'article du TheSocioscope](/conference/TheSocioscope21_Full_Paper_Template.docx) et ne pas dépasser 8 pages, références non comprises.
+- Les notes de recherche doivent utiliser le [modèle de note du IPSP](/conference/IPSP_Research_Note_Template.docx) et ne pas dépasser 2 pages, références non comprises. Les articles complets doivent utiliser le [modèle d'article du IPSP](/conference/IPSP21_Full_Paper_Template.docx) et ne pas dépasser 8 pages, références non comprises.
 
 - Les notes et les articles doivent être soumis avant le **21 janvier 2022, 23:59 AoE**.
 
@@ -13,7 +13,7 @@ Les auteurs **qui ont participé à la conférence TheSocioscope21** auront la p
 
 - Les auteurs qui soumettent un article complet devront évaluer au moins [deux autres soumissions](/conference/review_guidance).
 
-- Les évaluateurs devront fournir leurs commentaires avant le **13 février 2022**. [Cliquez ici](/conference/review_guidance) pour obtenir des conseils sur le processus d'évaluation du TheSocioscope21.
+- Les évaluateurs devront fournir leurs commentaires avant le **13 février 2022**. [Cliquez ici](/conference/review_guidance) pour obtenir des conseils sur le processus d'évaluation du IPSP21.
 
 - Les auteurs sont encouragés à intégrer les modifications suggérées par les évaluateurs dans leur article et à répondre aux évaluations. Les articles publiés comprendront les commentaires des évaluateurs et les réponses des auteurs.
 

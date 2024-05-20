@@ -1,6 +1,6 @@
 ---
 version: 1
-title: TheSocioscope.org est-il conforme au RGPD/ePR ?
+title: IPSP est-il conforme au RGPD/ePR ?
 ---
 
 Oui. Nous respectons les règles RGPD/ePR et même plus.

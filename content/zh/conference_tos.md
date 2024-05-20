@@ -11,9 +11,9 @@ version: 2
 
 ## 如何参加？
 
-要想参加，请在 10 月 11 日之前[注册您的](https://TheSocioscope.org/register)研究 Covid-19 影响的[项目](https://TheSocioscope.org/register)，以及不超过 2000 字的摘要和 5 分钟的工作视频演示（[这里](/conference/video_guidance)提供详细指导）。
+要想参加，请在 10 月 11 日之前[注册您的](https://IP4SP.org/register)研究 Covid-19 影响的[项目](https://IP4SP.org/register)，以及不超过 2000 字的摘要和 5 分钟的工作视频演示（[这里](/conference/video_guidance)提供详细指导）。
 
-所有提交给**\#TheSocioscope21**的研究项目都将在 TheSocioscope 网站上展示，所有的视频演示都将免费提供给任何人使用。
+所有提交给**\#IPSP21**的研究项目都将在 IPSP 网站上展示，所有的视频演示都将免费提供给任何人使用。
 
 ## 世界卫生组织？
 

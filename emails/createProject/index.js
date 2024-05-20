@@ -17,7 +17,7 @@ module.exports = (
     preview: t["subject"],
     emailSubject: t["subject"],
     content: `<p>${t["dear"]} ${firstName} ${lastName},</p>
-<p>${t["your_project"]} "${projectName}" ${t["has_been_correctly_uploaded_on_TheSocioscope"]}. </p>
+<p>${t["your_project"]} "${projectName}" ${t["has_been_correctly_uploaded_on_IPSP"]}. </p>
 <p>${t["1"]}</p>
 <table border="0" cellpadding="0" cellspacing="0" class="btn btn-primary" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; box-sizing: border-box;">
 <tbody>
@@ -41,7 +41,7 @@ module.exports = (
 
 <p><small>${t["6"]}.</small></p>`,
     textContent: `${t["dear"]} ${firstName} ${lastName},
-  ${t["your_project"]} "${projectName}" ${t["has_been_correctly_uploaded_on_TheSocioscope"]}.
+  ${t["your_project"]} "${projectName}" ${t["has_been_correctly_uploaded_on_IPSP"]}.
   ${t["1"]}
 https://${domainName}/verify/${pubId}/${key}
 

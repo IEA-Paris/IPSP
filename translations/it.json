@@ -4,10 +4,10 @@
     "title": "Informazioni su",
     "text": {
       "1": {
-        "1": "Il TheSocioscope (The Socioscope)",
+        "1": "Il IPSP (IPSP)",
         "2": "conserva un elenco globale consultabile di progetti scientifici, iniziative e risorse disponibili sugli impatti sociali e umani della pandemia Covid-19."
       },
-      "2": "The Socioscope è gratuito, senza scopo di lucro, finanziato dal pubblico e conforme al GDPR.",
+      "2": "IPSP è gratuito, senza scopo di lucro, finanziato dal pubblico e conforme al GDPR.",
       "3": "Guidato da un gruppo internazionale",
       "4": "conta tra le sue",
       "5": "grandi reti e istituti scientifici in tutto il mondo.",
@@ -19,7 +19,7 @@
     "subtitle": "Impatti sociali e conseguenze del Covid-19:<br> Un elenco globale consultabile"
   },
   "content": {
-    "blazon": "Alcune istituzioni partner (istituzioni di finanziamento, società scientifiche, ecc.) possono segnalare i progetti che sono stati sottoposti a un processo di revisione paritaria. Possono apporre  il loro \"blasone\" sul The Socioscope, come etichetta che certifica il progetto con l'autorità cognitiva dell'istituzione.",
+    "blazon": "Alcune istituzioni partner (istituzioni di finanziamento, società scientifiche, ecc.) possono segnalare i progetti che sono stati sottoposti a un processo di revisione paritaria. Possono apporre  il loro \"blasone\" sul IPSP, come etichetta che certifica il progetto con l'autorità cognitiva dell'istituzione.",
     "expectations": "I partecipanti dovrebbero essere chiari nelle loro intenzioni e mettere in evidenza il valore aggiunto del loro progetto. L'abstract deve essere breve, informativo e autoesplicativo, molto esplicito sulla tematica affrontata, la domanda di ricerca, la metodologia, l'insieme dei dati, il team, e il risultato atteso. È possibile fornire un link a una pagina web contenente una descrizione precisa e del materiale dettagliato.",
     "gdpr": {
       "1": "Sì. Rispettiamo le regole GDPR/ePR e anche di più.",
@@ -32,7 +32,7 @@
     "howInstitution": {
       "1": "Fornisci un breve abstract che descriva la tua organizzazione",
       "2": "Fornisci i nomi di 5 potenziali referenti",
-      "3": "Chiedi ai tuoi membri/affiliati di registrare i loro progetti rilevanti sul The Socioscope",
+      "3": "Chiedi ai tuoi membri/affiliati di registrare i loro progetti rilevanti sul IPSP",
       "4": "Invia tutte le informazioni di cui sopra a",
       "5": "Ti risponderemo nel giro di pochi giorni."
     },
@@ -43,60 +43,60 @@
       "4": "Modifica le informazioni sul tuo progetto (nuovo membro del team, nuovi risultati, nuova pubblicazione, nuovo finanziamento) in qualsiasi momento."
     },
     "howReferent": {
-      "1": "I referenti del The Socioscope sono scienziati senior con una vasta esperienza; operano pro bono  a beneficio della comunità. Un elenco di",
-      "2": "Il Comitato consultivo scientifico internazionale convalida l'ammissione alle comunità di referenti della The Socioscope."
+      "1": "I referenti del IPSP sono scienziati senior con una vasta esperienza; operano pro bono  a beneficio della comunità. Un elenco di",
+      "2": "Il Comitato consultivo scientifico internazionale convalida l'ammissione alle comunità di referenti della IPSP."
     },
     "promote": {
       "1": "Prima di tutto, grazie mille per il tuo sostegno!",
-      "2": "Se vuoi promuovere The Socioscope come iniziativa, puoi usare i nostri canali di social media. I loro link si trovano in basso a ogni pagina. Puoi anche usare le risorse del nostro",
-      "3": "Se vuoi promuovere un progetto particolare The Socioscope, puoi usare i widget di condivisione sociale del pulsante di condivisione",
-      "4": "Il breve URL The Socioscope con il numero The Socioscope-ID del tuo progetto è anche utile come piè di pagina delle email.",
-      "5": "Su ogni pagina del progetto The Socioscope. Se hai intenzione di condividere un progetto con un vasto pubblico, ti consigliamo di avvisare il contatto del progetto usando il pulsante \"Invia un e-mail al contatto del progetto\" della pagina del progetto relativo."
+      "2": "Se vuoi promuovere IPSP come iniziativa, puoi usare i nostri canali di social media. I loro link si trovano in basso a ogni pagina. Puoi anche usare le risorse del nostro",
+      "3": "Se vuoi promuovere un progetto particolare IPSP, puoi usare i widget di condivisione sociale del pulsante di condivisione",
+      "4": "Il breve URL IPSP con il numero IPSP-ID del tuo progetto è anche utile come piè di pagina delle email.",
+      "5": "Su ogni pagina del progetto IPSP. Se hai intenzione di condividere un progetto con un vasto pubblico, ti consigliamo di avvisare il contatto del progetto usando il pulsante \"Invia un e-mail al contatto del progetto\" della pagina del progetto relativo."
     },
     "whoMembers": {
-      "1": "The Socioscope è un elenco globale di progetti, iniziative e risorse che funziona come una piattaforma aperta a tutti: ricercatori, finanziatori, governi, media e pubblico in generale.",
+      "1": "IPSP è un elenco globale di progetti, iniziative e risorse che funziona come una piattaforma aperta a tutti: ricercatori, finanziatori, governi, media e pubblico in generale.",
       "2": "Abbiamo tre tipi di collaboratori:",
       "3": "I leader del progetto",
-      "4": "che registrano il loro progetto su The Socioscope, lo aggiornano, ricevono avvisi e offerte di collaborazione e finanziamento.",
+      "4": "che registrano il loro progetto su IPSP, lo aggiornano, ricevono avvisi e offerte di collaborazione e finanziamento.",
       "5": "che sono a conoscenza di nuovi progetti nel loro ambito, li vagliano, segnalano quelli che considerano più innovativi e interessanti.",
       "6": "che chiedono ai loro membri di registrare progetti, pubblicare bandi e finanziare progetti, imprimere il loro blasone su progetti segnalati, fornire studiosi di alto livello come referenti."
     },
     "whoReferent": {
-      "1": "I referenti del The Socioscope sono scienziati senior con una vasta esperienza; operano",
+      "1": "I referenti del IPSP sono scienziati senior con una vasta esperienza; operano",
       "2": "pro bono",
       "3": "a beneficio della comunità.",
       "4": "elenco dei referenti",
-      "5": "è pubblicato sul sito web della The Socioscope. Il",
-      "6": "convalida l'ammissione alle comunità The Socioscope di referenti."
+      "5": "è pubblicato sul sito web della IPSP. Il",
+      "6": "convalida l'ammissione alle comunità IPSP di referenti."
     },
     "whyInstitution": {
       "1": "Partecipa a uno sforzo globale per risolvere la crisi",
       "2": "Mostra il lavoro dei tuoi membri e affiliati",
       "3": "Apponi il tuo blasone sui progetti che controlli o sostieni",
       "4": "Pubblica i tuoi inviti e le iniziative importanti",
-      "5": "Usa The Socioscope come un mattone d'infrastruttura per seguire i progetti dei tuoi membri e affiliati. Questi mattoni di servizio (tag, ricerca, segui) sono forniti gratuitamente."
+      "5": "Usa IPSP come un mattone d'infrastruttura per seguire i progetti dei tuoi membri e affiliati. Questi mattoni di servizio (tag, ricerca, segui) sono forniti gratuitamente."
     },
     "whyProject": {
       "1": "Dai più visibilità al tuo progetto attraverso una pagina web dedicata su {0} con un link alla tua.",
       "2": "Essere avvisato e avere accesso ai progetti che corrispondono ai tuoi interessi (scorrendo la lista dei progetti, ricevendo richieste di contatto e avvisi di aggiornamento).",
       "3": "Ottieni un {0}-ID con marcatura temporale che ti permette di essere citato anche prima di pubblicare.",
-      "4": "Ottieni un feedback dai referenti The Socioscope e metti in evidenza il tuo progetto.",
+      "4": "Ottieni un feedback dai referenti IPSP e metti in evidenza il tuo progetto.",
       "5": "Attira la visibilità dei finanziatori per sostenere il tuo progetto"
     },
     "process": {
-      "text1": "The Socioscope presenta risorse che sono state filtrate, etichettate e indicizzate, esaminate da un bot e in seguito convalidate da esperti umani.",
+      "text1": "IPSP presenta risorse che sono state filtrate, etichettate e indicizzate, esaminate da un bot e in seguito convalidate da esperti umani.",
       "upload": "Carica un progetto",
-      "text2": "I partecipanti caricano le informazioni del loro progetto attraverso un modulo molto semplice sul sito web del The Socioscope.",
+      "text2": "I partecipanti caricano le informazioni del loro progetto attraverso un modulo molto semplice sul sito web del IPSP.",
       "text3": "Autoverifica di un progetto",
       "text4": "Beverli, il nostro Bot per la verifica dell'e-mail, invierà un'e-mail all'indirizzo che il partecipante ha indicato come persona di contatto con un link. Il progetto non sarà pubblicato finché la persona di contatto del progetto non avrà cliccato sul link.",
-      "text5": "Pubblicazione sul sito web del The Socioscope",
+      "text5": "Pubblicazione sul sito web del IPSP",
       "text6": "Filipeda (un altro bot) invierà un'email di conferma alla persona di contatto del progetto",
       "text61": "La persona di contatto del progetto dovrebbe conservare questo link: è il suo token di accesso per modificare la sua pagina web.",
       "text7": "Convalida del progetto",
-      "text8": "Dopo la pubblicazione, il segretariato del The Socioscope esaminerà il progetto e potrebbe richiedere precisazioni o chiedere delle modifiche. Se viene trovato un problema serio (se ad esempio presenta questioni etiche o forti riserve metodologiche), il progetto non sarà pubblicato (la persona di contatto del progetto può fare appello a",
+      "text8": "Dopo la pubblicazione, il segretariato del IPSP esaminerà il progetto e potrebbe richiedere precisazioni o chiedere delle modifiche. Se viene trovato un problema serio (se ad esempio presenta questioni etiche o forti riserve metodologiche), il progetto non sarà pubblicato (la persona di contatto del progetto può fare appello a",
       "text9": "Poiché i progetti sono spesso work-in-progress, sono consigliati gli aggiornamenti. La persona di contatto del progetto può utilizzare il link sicuro fornito nel messaggio e-mail di Filipeda per modificare la pagina del progetto.",
       "text10": "con un link per modificarlo o cancellarlo",
-      "test51": "Una volta verificato l'indirizzo e-mail, viene pubblicata la pagina web del progetto The Socioscope."
+      "test51": "Una volta verificato l'indirizzo e-mail, viene pubblicata la pagina web del progetto IPSP."
     }
   },
   "main": {
@@ -114,9 +114,9 @@
     },
     "partners": {
       "title": "Istituzioni partner",
-      "text": "The Socioscope è supportato da:",
+      "text": "IPSP è supportato da:",
       "text2": "Tutte le domande saranno esaminate dal comitato consultivo scientifico.",
-      "text3": "Per unirsi al The Socioscope e diventare partner, contattare",
+      "text3": "Per unirsi al IPSP e diventare partner, contattare",
       "whyInstitution": "Perché il mio ente dovrebbe diventare partner?",
       "howInstitution": "Come può il mio ente diventare partner?"
     },
@@ -136,21 +136,21 @@
     },
     "faq": {
       "title": "Domande frequenti",
-      "whoMembers": "Per chi è fatto il The Socioscope?",
-      "whyProject": "Perché registrare il mio progetto su The Socioscope?",
-      "howProject": "Come faccio a registrare il mio progetto su The Socioscope?",
-      "process": "Qual è il processo di convalida del The Socioscope?",
+      "whoMembers": "Per chi è fatto il IPSP?",
+      "whyProject": "Perché registrare il mio progetto su IPSP?",
+      "howProject": "Come faccio a registrare il mio progetto su IPSP?",
+      "process": "Qual è il processo di convalida del IPSP?",
       "expectations": "Cosa ci si aspetta dai partecipanti?",
-      "whoReferent": "Chi sono i referenti The Socioscope e come vengono scelti?",
+      "whoReferent": "Chi sono i referenti IPSP e come vengono scelti?",
       "whyInstitution": "Quali sono i vantaggi per la mia istituzione di diventare partner?",
       "blazon": "Qual è lo scopo del \"blasone\"?",
       "howInstitution": "Come può la mia istituzione diventare partner?",
-      "grpd": "Il The Socioscope è conforme al GDPR/ePR?",
-      "promote": "Vorrei promuovere The Socioscope, come devo procedere?"
+      "grpd": "Il IPSP è conforme al GDPR/ePR?",
+      "promote": "Vorrei promuovere IPSP, come devo procedere?"
     },
     "referents": {
       "title": "Referenti",
-      "text": "I referenti del The Socioscope sono scienziati senior con una vasta esperienza, selezionati dal comitato consultivo scientifico; operano pro bono a beneficio della comunità e il loro compito è quello di convalidare i progetti del The Socioscope."
+      "text": "I referenti del IPSP sono scienziati senior con una vasta esperienza, selezionati dal comitato consultivo scientifico; operano pro bono a beneficio della comunità e il loro compito è quello di convalidare i progetti del IPSP."
     },
     "register": {
       "title": "Registra il tuo progetto"
@@ -168,20 +168,20 @@
       "review": "Rassegna stampa"
     },
     "conference": {
-      "title": "La conferenza The Socioscope 2021",
-      "intro": "La conferenza The Socioscope 2021 mira a promuovere i progetti The Socioscope e a favorire lo sforzo scientifico intorno agli attuali impatti della pandemia Covid-19.",
+      "title": "La conferenza IPSP 2021",
+      "intro": "La conferenza IPSP 2021 mira a promuovere i progetti IPSP e a favorire lo sforzo scientifico intorno agli attuali impatti della pandemia Covid-19.",
       "we-have-2-different-tracks": "Abbiamo 2 tracce diverse",
       "project-track": "La traccia del progetto",
       "project-track-description": "presentare progetti già completati, prestampati o pubblicati",
       "wip-track": "Il Work In Progress track",
       "wip-track-description": "per discutere e sostenere un progetto imminente o in corso",
-      "cat-intro": "Ordiniamo anche le domande per la conferenza The Socioscope 2021 in 5 categorie:",
+      "cat-intro": "Ordiniamo anche le domande per la conferenza IPSP 2021 in 5 categorie:",
       "economics": "Economie nella pandemia",
       "societies": "Le società nella pandemia",
       "life": "La vita nella pandemia",
       "research": "Ricerca nella pandemia",
       "other": "Altre aree relative alla pandemia",
-      "The Socioscope-2021": "The Socioscope 2021",
+      "IPSP-2021": "IPSP 2021",
       "paper_guidance": "Guida per abstract di ricerca e articoli",
       "video_guidance": "Guida per le presentazioni video",
       "tos": "Termini e condizioni",
@@ -196,14 +196,14 @@
     "cookieBanner": "Utilizziamo i cookie.",
     "title": "Politica sulla privacy",
     "agreed": "D'accordo",
-    "text1": "Il sito web del TheSocioscope (The Socioscope) fornisce una directory globale di progetti di ricerca, indagini e iniziative sugli impatti sociali e umani della pandemia di Covid-19. Il sito web del TheSocioscope (The Socioscope) fornisce una directory globale di progetti di ricerca, indagini e iniziative sugli impatti sociali e umani della pandemia di Covid-19.",
+    "text1": "Il sito web del IPSP (IPSP) fornisce una directory globale di progetti di ricerca, indagini e iniziative sugli impatti sociali e umani della pandemia di Covid-19. Il sito web del IPSP (IPSP) fornisce una directory globale di progetti di ricerca, indagini e iniziative sugli impatti sociali e umani della pandemia di Covid-19.",
     "text10": "Non tracciamo gli utenti né memorizziamo alcuna informazione al di fuori dell'ambito della definizione del progetto. Un'impronta digitale di base e anonima del browser viene memorizzata solo per stimare le visualizzazioni uniche del progetto e migliorare la nostra funzione di classificazione dei progetti. Non divulghiamo o vendiamo indirizzi e-mail o altre informazioni personali. Non utilizziamo cookie, tranne quelli di",
-    "text2": "Registrando il loro progetto sul sito del The Socioscope, i partecipanti autorizzano il The Socioscope a pubblicare online la descrizione del loro progetto, ad eccezione dei loro dettagli personali di contatto (indirizzo email) che il The Socioscope non condividerà. Un pulsante \"di contatto\" sulla pagina del progetto permette ai partecipanti di ricevere email senza rivelare l'indirizzo, essi sono liberi di condividere il loro contatto nella loro risposta se lo desiderano.",
+    "text2": "Registrando il loro progetto sul sito del IPSP, i partecipanti autorizzano il IPSP a pubblicare online la descrizione del loro progetto, ad eccezione dei loro dettagli personali di contatto (indirizzo email) che il IPSP non condividerà. Un pulsante \"di contatto\" sulla pagina del progetto permette ai partecipanti di ricevere email senza rivelare l'indirizzo, essi sono liberi di condividere il loro contatto nella loro risposta se lo desiderano.",
     "text3": "Gli indirizzi e-mail dei partecipanti sono necessari per presentare un progetto, ma non saranno mai divulgati online né trasferiti o venduti a terzi. Saranno utilizzati solo:",
     "text4": "per assicurarsi che il progetto sia creato da una persona reale (non da un bot)",
-    "text5": "per reindirizzare le richieste di contatto ai partecipanti attraverso i server The Socioscope;",
-    "text6": "dal team del The Socioscope, per contattare i partecipanti per consentire loro di caricare, promuovere collaborazioni e aggiornare occasionalmente il The Socioscope;",
-    "text7": "dai referenti The Socioscope, per richiedere modifiche attraverso i server The Socioscope.",
+    "text5": "per reindirizzare le richieste di contatto ai partecipanti attraverso i server IPSP;",
+    "text6": "dal team del IPSP, per contattare i partecipanti per consentire loro di caricare, promuovere collaborazioni e aggiornare occasionalmente il IPSP;",
+    "text7": "dai referenti IPSP, per richiedere modifiche attraverso i server IPSP.",
     "text8": "In conformità con il regolamento generale sulla protezione dei dati dell'UE, potete esercitare il vostro diritto di accesso, correzione o opposizione all'uso dei vostri dati contattando"
   },
   "contact": {
@@ -277,19 +277,19 @@
     "sorry-for-the-inconvenience": "Ci scusiamo per l'inconveniente!",
     "an-error-happened-during-the-verification": "Si è verificato un errore durante la verifica.",
     "you-can-try-again-and-refresh-this-page-or": "Puoi riprovare e aggiornare questa pagina o",
-    "contact-The Socioscope": "contattare The Socioscope",
+    "contact-IPSP": "contattare IPSP",
     "saved": "Salvato",
     "do-you-really-want-to-leave-you-have-unsaved-changes": "Vuoi davvero uscire? Hai delle modifiche non salvate!",
     "project-saved-with-success": "Progetto salvato con successo.",
-    "The Socioscope-2021-applicant": "Partecipante The Socioscope 2021",
+    "IPSP-2021-applicant": "Partecipante IPSP 2021",
     "results": "nessun risultato | risultato | risultati",
     "learn-more": "Per saperne di più",
     "see-also": "Vedi anche",
     "download-the-pdf-version": "Scarica la versione pdf",
-    "register-to-the-The Socioscope21-newsletter": "Iscriviti alla conferenza The Socioscope21",
+    "register-to-the-IPSP21-newsletter": "Iscriviti alla conferenza IPSP21",
     "gdpr": {
       "checkbox": "Spuntando questa casella, accetto che i dati raccolti dallo IAS di Parigi con questo modulo siano trattati dal dipartimento di comunicazione dell'Istituto. Sono raccolti e trattati ai fini della comunicazione dell'Istituto. La raccolta dei dati è obbligatoria per ricevere la newsletter. I dati non saranno trasmessi a terzi e saranno conservati fino alla richiesta di disiscrizione da parte dell'abbonato.",
-      "text1": "Conformemente al Data Protection Act francese del 6 gennaio 1978, modificato nel 2004, e al Regolamento generale sulla protezione dei dati, potete esercitare i vostri diritti di accesso, rettifica e opposizione contattando l'Istituto all'indirizzo info@The Socioscope.org",
+      "text1": "Conformemente al Data Protection Act francese del 6 gennaio 1978, modificato nel 2004, e al Regolamento generale sulla protezione dei dati, potete esercitare i vostri diritti di accesso, rettifica e opposizione contattando l'Istituto all'indirizzo info@IPSP.org",
       "text2": "Utilizziamo Mailchimp come nostra piattaforma di marketing. Cliccando qui sotto per iscriverti, accetti che le tue informazioni vengano trasferite a Mailchimp per l'elaborazione.",
       "text3": "Scopri di più sulle pratiche di privacy di Mailchimp qui."
     },
@@ -332,15 +332,15 @@
     "share": {
       "1": "Il mio progetto è pubblicato su {0}",
       "2": "{0} Progetto",
-      "3": "Ciao, %0d%0a%0d%0aPer favore controlla questo progetto su The Socioscope (TheSocioscope) :%0d%0ahttps%3A%2F%2FThe Socioscope.org%2Fitem%2F${this.$route.params.id}%0d%0a%0d%0aSaluti,"
+      "3": "Ciao, %0d%0a%0d%0aPer favore controlla questo progetto su IPSP (IPSP) :%0d%0ahttps%3A%2F%2FIPSP.org%2Fitem%2F${this.$route.params.id}%0d%0a%0d%0aSaluti,"
     },
     "remove": {
-      "title": "IL TUO PROGETTO È STATO RIMOSSO CON SUCCESSO DA The Socioscope",
+      "title": "IL TUO PROGETTO È STATO RIMOSSO CON SUCCESSO DA IPSP",
       "text": "Riceverai a breve un'e-mail di conferma.",
       "btn": "Clicca qui se vuoi rimuovere il tuo progetto",
       "dialog": {
-        "title": "Rimuovere il tuo progetto The Socioscope?",
-        "text1": "Se rimuovi il tuo progetto da The Socioscope, non sarà più disponibile al pubblico.",
+        "title": "Rimuovere il tuo progetto IPSP?",
+        "text1": "Se rimuovi il tuo progetto da IPSP, non sarà più disponibile al pubblico.",
         "text2": "Se scegliete di procedere, il vostro progetto sarà immediatamente rimosso per 2 settimane, poi lo cancelleremo automaticamente. Durante la prima di queste 2 settimane, potete ancora contattarci a",
         "text3": "se hai cambiato idea e vuoi ripristinare il tuo progetto.",
         "text4": "Per favore, scrivi"
@@ -354,7 +354,7 @@
     },
     "name": "Nome",
     "featured": {
-      "text": "Questo è un progetto presentato dalla comunità The Socioscope",
+      "text": "Questo è un progetto presentato dalla comunità IPSP",
       "label": "in primo piano"
     },
     "notVerified": "Questo progetto non è stato verificato",
@@ -363,8 +363,8 @@
     "country": "Paese-i | Paese | Paesi",
     "verified": "Verificato",
     "featureAreAlwaysVerified": "I progetti in primo piano sono sempre verificati",
-    "verifiedTooltip": "Spunta questa casella per visualizzare solo i progetti verificati da un referente The Socioscope",
-    "featuredTooltip": "Spunta questa casella per visualizzare solo i progetti presentati dalla comunità The Socioscope",
+    "verifiedTooltip": "Spunta questa casella per visualizzare solo i progetti verificati da un referente IPSP",
+    "featuredTooltip": "Spunta questa casella per visualizzare solo i progetti presentati dalla comunità IPSP",
     "itemType": "Tipo di progetto",
     "details": "Dettagli del progetto",
     "url": "Url",
@@ -406,8 +406,8 @@
       "title": "Dettagli",
       "conf": {
         "I-wanna-participate-in": "Voglio partecipare al",
-        "label": "Conferenza The Socioscope 2021",
-        "hint": "È necessario fornire una presentazione video su youtube per partecipare al The Socioscope 2021"
+        "label": "Conferenza IPSP 2021",
+        "hint": "È necessario fornire una presentazione video su youtube per partecipare al IPSP 2021"
       }
     },
     "general": {
@@ -444,7 +444,7 @@
       "4": "fare domanda."
     },
     "edit": {
-      "feedback": "Aggiungere un feedback per i referenti The Socioscope (opzionale)",
+      "feedback": "Aggiungere un feedback per i referenti IPSP (opzionale)",
       "feedbackLabel": "Il tuo testo di feedback (opzionale)",
       "button": "Modifica questo progetto",
       "comment": "Commentate le vostre modifiche per aiutare i referenti che stanno verificando o valutando i vostri progetti.",
@@ -454,7 +454,7 @@
       "1": "Riceverai un'email di conferma a breve",
       "2": "con un link per verificare che il tuo indirizzo email sia valido",
       "3": "Una volta che la tua email è stata verificata, il tuo progetto sarà visualizzato nella sezione",
-      "4": "come \"non convalidato\" finché non viene controllato da un referente The Socioscope.",
+      "4": "come \"non convalidato\" finché non viene controllato da un referente IPSP.",
       "5": "Potresti essere contattato dal referente per correggere alcune informazioni del tuo progetto.",
       "6": "Grazie ancora per il suo contributo.",
       "title": "IL TUO PROGETTO È STATO REGISTRATO CON SUCCESSO!",
@@ -477,7 +477,7 @@
       "contact_and_team": "Contatto e team",
       "confirmation": "Conferma"
     },
-    "privacyPolicy": "la politica della privacy di The Socioscope"
+    "privacyPolicy": "la politica della privacy di IPSP"
   },
   "reset-filters": "Azzera i filtri",
   "hide-filters": "Nascondi i filtri",
@@ -487,10 +487,10 @@
   },
   "credits": {
     "title": "Crediti",
-    "text1": "The Socioscope  è uno sforzo collettivo per promuovere la collaborazione scientifica e l'avanzamento delle conoscenze.",
+    "text1": "IPSP  è uno sforzo collettivo per promuovere la collaborazione scientifica e l'avanzamento delle conoscenze.",
     "text2": "e il",
     "rfiea": "Fondazione RFIEA",
-    "text3": "The Socioscope ringrazia tutti coloro il cui contributo e l'intelligenza collettiva forniscono a tutti noi questa risorsa condivisa. Un ringraziamento speciale a Sophie de Bonis, responsabile del design di IBM per la consulenza UX.",
+    "text3": "IPSP ringrazia tutti coloro il cui contributo e l'intelligenza collettiva forniscono a tutti noi questa risorsa condivisa. Un ringraziamento speciale a Sophie de Bonis, responsabile del design di IBM per la consulenza UX.",
     "text4": "Questa è un'iniziativa senza scopo di lucro finanziata dal pubblico.",
     "text5": "Accogliamo con favore le donazioni per costruire un bene pubblico scientifico non esclusivo. Se siete interessati, contattate:",
     "text6": "Questo sito web e il logo, così come la sua infrastruttura, sono stati progettati da",
@@ -851,7 +851,7 @@
       "titles": {
         "0": "Spam",
         "1": "Offensivo, maleducato o abusivo",
-        "2": "Irrilevante per la The Socioscope",
+        "2": "Irrilevante per la IPSP",
         "3": "Pezzo d'opinione",
         "4": "Affissione multipla di pezzi simili",
         "5": "Gravi limitazioni o difetti metodologici",
@@ -861,7 +861,7 @@
         "0": "Indicare il motivo per cui si blocca questo progetto",
         "1": "Articolo destinato a promuovere un prodotto, un servizio o un'organizzazione, o che non rivela l'affiliazione dell'autore.",
         "2": "Il linguaggio e/o il contenuto sono inappropriati per un progetto di ricerca.",
-        "3": "La relazione con lo scopo principale del The Socioscope (scienze sociali e ricerca umanistica sugli impatti della pandemia Covid-19) non è abbastanza chiara.",
+        "3": "La relazione con lo scopo principale del IPSP (scienze sociali e ricerca umanistica sugli impatti della pandemia Covid-19) non è abbastanza chiara.",
         "4": "I progetti dovrebbero essere basati sulla ricerca empirica, o sull'uso di metodi scientifici per portare progressi teorici o metodologici. Articoli di opinione, opuscoli e commenti dovrebbero essere pubblicati altrove.",
         "5": "Si prega di postare un unico abstract per un insieme di articoli simili o collegati piuttosto che diversi abstract distinti, possibilmente con un link a un URL contenente l'insieme.",
         "6": "La presentazione non raggiunge attualmente la soglia di lavoro che sarebbe considerata per la pubblicazione in una rivista peer-reviewed."

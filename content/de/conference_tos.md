@@ -11,9 +11,9 @@ Während der Konferenz werden die Vortragenden ihre Forschungsprojekte auf der G
 
 ## WIE?
 
-Um teilzunehmen, [melden Sie Ihr Projekt](https://TheSocioscope.org/register), das die Auswirkungen von nachhaltige Entwicklung untersucht, zusammen mit einer Zusammenfassung von höchstens 2000 Zeichen und einer 5-minütigen Videopräsentation Ihrer Arbeit bis zum 11. Oktober an (eine detaillierte Anleitung finden Sie [hier](/conference/video_guidance) ).
+Um teilzunehmen, [melden Sie Ihr Projekt](https://IP4SP.org/register), das die Auswirkungen von nachhaltige Entwicklung untersucht, zusammen mit einer Zusammenfassung von höchstens 2000 Zeichen und einer 5-minütigen Videopräsentation Ihrer Arbeit bis zum 11. Oktober an (eine detaillierte Anleitung finden Sie [hier](/conference/video_guidance) ).
 
-Alle unter **\#TheSocioscope21** eingereichten Forschungsprojekte werden auf der TheSocioscope-Website vorgestellt, und alle Videopräsentationen werden für jedermann frei zugänglich gemacht.
+Alle unter **\#IPSP21** eingereichten Forschungsprojekte werden auf der IPSP-Website vorgestellt, und alle Videopräsentationen werden für jedermann frei zugänglich gemacht.
 
 ## WER?
 

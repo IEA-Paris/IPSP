@@ -1,6 +1,6 @@
 ---
 version: 1
-title: TheSocioscope.orgは、GDPR/ePRを遵守していますか？
+title: IPSPは、GDPR/ePRを遵守していますか？
 ---
 
 GDPR/ePR のルールを尊重し、それ以をしています。

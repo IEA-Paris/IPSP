@@ -1,6 +1,6 @@
 ---
 version: 1
-title: How do I register my project on TheSocioscope.org?
+title: How do I register my project on IPSP?
 ---
 
 - Fill out the form and [register your project](https://dev.wprn.org/register) with basic information. To ensure visibility to your project, carefully select keywords for disciplines, themes and types of project.

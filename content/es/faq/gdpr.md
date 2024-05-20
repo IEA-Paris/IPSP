@@ -1,6 +1,6 @@
 ---
 version: 1
-title: ¿Cumple la TheSocioscope.org con el GDPR/ePR?
+title: ¿Cumple la IPSP con el GDPR/ePR?
 ---
 
 Sí, respetamos las normas GDPR/ePR e incluso más.

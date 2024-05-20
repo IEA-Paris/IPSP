@@ -11,9 +11,9 @@ Durante la conferencia, los presentadores debatirán sus proyectos de investigac
 
 ## ¿CÓMO?
 
-Para participar, [inscriba su proyecto](https://thesocioscope.org/register) que estudia el cuestiones de desarrollo sostenible, junto con un resumen de no más de 2000 caracteres y una presentación en vídeo de 5 minutos de su trabajo antes del 11 de octubre (se proporciona una guía detallada [aquí](/conference/video_guidance) ).
+Para participar, [inscriba su proyecto](https://IP4SP.org/register) que estudia el cuestiones de desarrollo sostenible, junto con un resumen de no más de 2000 caracteres y una presentación en vídeo de 5 minutos de su trabajo antes del 11 de octubre (se proporciona una guía detallada [aquí](/conference/video_guidance) ).
 
-Todos los proyectos de investigación que se presenten a ** la #TheSocioscope21** aparecerán en el sitio web de la TheSocioscope, y todas las presentaciones en vídeo estarán disponibles de forma gratuita para que cualquiera pueda acceder a ellas.
+Todos los proyectos de investigación que se presenten a ** la #IPSP21** aparecerán en el sitio web de la IPSP, y todas las presentaciones en vídeo estarán disponibles de forma gratuita para que cualquiera pueda acceder a ellas.
 
 ## ¿QUIÉN?
 

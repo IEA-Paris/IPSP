@@ -11,9 +11,9 @@ During the conference, presenters will discuss their research projects with the 
 
 ## HOW?
 
-To participate, [register your project](https://thesocioscope.org/register) studying the impact of Covid-19, along with an abstract of no more than 2000 characters and a 5-minute video presentation of your work by the 11th of October (detailed guidance provided [here](/conference/video_guidance) ).
+To participate, [register your project](https://IP4SP.org/register) studying the impact of Covid-19, along with an abstract of no more than 2000 characters and a 5-minute video presentation of your work by the 11th of October (detailed guidance provided [here](/conference/video_guidance) ).
 
-All research projects submitted to **#TheSocioscope21** will be featured on TheSocioscope website, and all video presentations will be made available freely for anyone to access.
+All research projects submitted to **#IPSP21** will be featured on IPSP website, and all video presentations will be made available freely for anyone to access.
 
 ## WHO?
 

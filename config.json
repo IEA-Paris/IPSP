@@ -1,11 +1,11 @@
 {
   "root": {
-    "name": "thesocioscope",
-    "fullName": "The Socioscope",
+    "name": "IPSP",
+    "fullName": "International Panel on Social Progress",
     "subtitle": "",
     "description": "",
     "reCaptcha": "6Lc_xuUUAAAAALwowUq0cC0wFtFnZ2NCi3UH4i1j",
-    "url": "https://thesocioscope.org",
+    "url": "https://ip4sp.org",
     "splash_title": "",
     "item_sg": "Project",
     "item_pl": "Projects",
@@ -14,7 +14,7 @@
     "titleBackdrop": false,
     "statsImage": "parallax.jpg",
     "logo": {
-      "file": "thesocioscope.png",
+      "file": "icon.png",
       "fileSmallLight": "icon.png",
       "fileSmallDark": "icon.png",
       "sizes": {
@@ -87,7 +87,7 @@
       "dark": false,
       "themes": {
         "light": {
-          "primary": "#43A047",
+          "primary": "#1155cc",
           "secondary": "#424242",
           "accent": "#006E90",
           "error": "#E16036",
@@ -96,7 +96,7 @@
           "warning": "#FFC107"
         },
         "dark": {
-          "primary": "#81C784",
+          "primary": "#1155cc",
           "secondary": "#424242",
           "accent": "#006E90",
           "info": "#ADCAD6",
@@ -108,10 +108,10 @@
     }
   },
   "referent": {
-    "name": "r-thesocioscope",
-    "fullName": "TheSocioscope referent website",
-    "description": "Repository of the Initiatives for Sustainability",
+    "name": "r-ipsp",
+    "fullName": "IPSP referent website",
+    "description": "Repository of the Initiatives for IPSP",
     "reCaptcha": "6Lc_xuUUAAAAALwowUq0cC0wFtFnZ2NCi3UH4i1j",
-    "url": "https://referent.thesocioscope.org"
+    "url": "https://referent.ip4sp.org"
   }
 }

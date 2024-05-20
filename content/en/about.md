@@ -1,11 +1,11 @@
 ---
 version: 1
-title: About The Socioscope
+title: About IPSP
 ---
 
-**The Socioscope** platform maintains a searchable global directory of the scientific projects, initiatives and resources available on [the 17 goals of Sustainable Development](https://sdgs.un.org/goals) set by the United Nations.
+**IPSP** platform maintains a searchable global directory of the scientific projects, initiatives and resources available on [the 17 goals of Sustainable Development](https://sdgs.un.org/goals) set by the United Nations.
 
-The Socioscope is free, non-profit, public-funded, and GDPR compliant.
+IPSP is free, non-profit, public-funded, and GDPR compliant.
 
 Steered by an international [Scientific Advisory board](advisory_board), it counts among its [partner institutions](institutions) major scientific networks and institutes worldwide.
 

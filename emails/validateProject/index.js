@@ -16,7 +16,7 @@ module.exports = (
   const t = require("./translations/" + lang || "en" + ".json")
   return {
     logo,
-    link: `https://TheSocioscope.org/edit/${pubId}/${key}`,
+    link: `https://IPSP.org/edit/${pubId}/${key}`,
     unsub: true,
     content: `<p>${t["dear"]} ${firstname} ${lastname},</p>
           <p>${t["subject1"]} "${name}" ${t["subject3"]}.</p>

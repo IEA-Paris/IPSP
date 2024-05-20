@@ -1,13 +1,13 @@
 {
-  "subject": "Please confirm your email address to publish your project on TheSocioscope",
+  "subject": "Please confirm your email address to publish your project on IPSP",
   "dear": "Dear",
   "your_project": "Your project",
-  "has_been_correctly_uploaded_on_TheSocioscope": "has been correctly uploaded on TheSocioscope",
-  "1": "TheSocioscope can only publish projects with a verified contact email address. Please click on the button below to verify your contact email address :",
+  "has_been_correctly_uploaded_on_IPSP": "has been correctly uploaded on IPSP",
+  "1": "IPSP can only publish projects with a verified contact email address. Please click on the button below to verify your contact email address :",
   "verify": "Verify my email",
-  "2": "On behalf of TheSocioscope, many thanks to you and to your institution",
+  "2": "On behalf of IPSP, many thanks to you and to your institution",
   "3": "for contributing to this commons for research",
   "4": "Kind regards",
-  "5": "on behalf of TheSociosciope.org",
-  "6": "Please note: Until you verify your email address, you will not receive any other email from us, and your project will not appear on TheSocioscope. This is to avoid projects uploaded by bots, and spam"
+  "5": "on behalf of IPSP.org",
+  "6": "Please note: Until you verify your email address, you will not receive any other email from us, and your project will not appear on IPSP. This is to avoid projects uploaded by bots, and spam"
 }

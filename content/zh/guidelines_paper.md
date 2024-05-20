@@ -3,9 +3,9 @@ title: 研究笔记和论文的指导
 version: 6
 ---
 
-**参加 TheSocioscope21**的作者可以选择在正式的会议论文集中发表研究笔记（WIP 轨道）或完整的论文（Paper 轨道），并有 ISSN，完整的论文将经过同行评审。 为了保持会议的互动精神，出版物的评审过程将在会议结束后进行，以使作者能够将演讲中的反馈纳入其笔记或论文的最终版本。 评审过程也将是社区性的，我们鼓励你自愿并尽可能地参与。
+**参加 IPSP21**的作者可以选择在正式的会议论文集中发表研究笔记（WIP 轨道）或完整的论文（Paper 轨道），并有 ISSN，完整的论文将经过同行评审。 为了保持会议的互动精神，出版物的评审过程将在会议结束后进行，以使作者能够将演讲中的反馈纳入其笔记或论文的最终版本。 评审过程也将是社区性的，我们鼓励你自愿并尽可能地参与。
 
-- 研究笔记应使用[TheSocioscope 笔记模板](/conference/TheSocioscope_Research_Note_Template.docx)，长度不超过 2 页，不包括参考文献；完整论文应使用[TheSocioscope 论文模板](/conference/TheSocioscope21_Full_Paper_Template.docx)，长度不超过 8 页，不包括参考文献。
+- 研究笔记应使用[IPSP 笔记模板](/conference/IPSP_Research_Note_Template.docx)，长度不超过 2 页，不包括参考文献；完整论文应使用[IPSP 论文模板](/conference/IPSP21_Full_Paper_Template.docx)，长度不超过 8 页，不包括参考文献。
 
 - 摘要和论文必须在**2022 年 1 月 21 日 23:59 AoE**前提交。
 
@@ -13,7 +13,7 @@ version: 6
 
 - 提交完整论文的作者将被要求至少审阅[另外两篇提交的论文](/conference/review_guidance)。
 
-- 审稿人需要在 2022 年 2 月 13 日之前提供他们的反馈意见。[点击这里](/conference/review_guidance)了解 TheSocioscope21 的审稿程序指南
+- 审稿人需要在 2022 年 2 月 13 日之前提供他们的反馈意见。[点击这里](/conference/review_guidance)了解 IPSP21 的审稿程序指南
 
 - 我们鼓励作者将审稿人提出的修改意见纳入他们的论文，并对审稿人的意见做出回应。 已发表的论文将包括审稿人的意见和作者的回应。
 

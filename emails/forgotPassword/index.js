@@ -25,13 +25,13 @@ module.exports = (
     </tr>
   </tbody>
   </table>    
-  <p>${t["contact"]} referents@TheSocioscope.org ${t["to-report-it"]}.</p>
+  <p>${t["contact"]} referents@IPSP.org ${t["to-report-it"]}.</p>
   <p><b>Cesare</b>, <b>C</b>ommon <b>e</b>lectronic <b>s</b>ecretariate <b>a</b>gent of <b>re</b>ferents </p>
   <p>${t["1"]}.</p>`,
     textContent: `${t["dear"]} ${firstName} ${lastName},
 ${t["2"]}.
 ${link} 
-${t["contact"]} referents@TheSocioscope.org ${t["to-report-it"]}.
+${t["contact"]} referents@IPSP.org ${t["to-report-it"]}.
 Cesare, Common electronic secretariate agent of referents
 ${t["2"]}
 `,

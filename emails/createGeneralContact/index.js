@@ -17,7 +17,7 @@ module.exports = (lang, { name, subject, email, message, createdAt }) => {
         <br>
         <p>Best regards,</p>
         <p><b>Batrec</b>, <b>B</b>ot <b>a</b>cknowledging and <b>t</b>ransferring <b>re</b>quests for <b>c</b>ontact, </p>
-        <p>on behalf of TheSociosciope.org</p>
+        <p>on behalf of IPSP.org</p>
         `,
     textContent: `${t["1"]}./r/n
 
@@ -36,7 +36,7 @@ module.exports = (lang, { name, subject, email, message, createdAt }) => {
         Best regards,
         
         Batrec, Bot acknowledging and transferring requests for contact,
-        on behalf of TheSociosciope.org
+        on behalf of IPSP.org
         `,
   }
 }

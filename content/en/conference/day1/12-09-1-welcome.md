@@ -1,6 +1,6 @@
 ---
 date: 2021-12-09T10:30:00Z
-name: TheSocioscope21 Conference Welcome
+name: IPSP21 Conference Welcome
 time: 10:30 - 11:00 (UTC+1)
 type: 1
 ---

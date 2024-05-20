@@ -1,11 +1,11 @@
 ---
 version: 1
-title: Acerca de thesocioscope
+title: Acerca de IPSP
 ---
 
-**La Red Mundial de Investigación sobre Pandemias (TheSocioscope)** plataforma mantiene un directorio global consultable de los proyectos científicos, iniciativas y recursos disponibles sobre los impactos sociales y humanos de la desarrollo sostenible.
+**IPSP** plataforma mantiene un directorio global consultable de los proyectos científicos, iniciativas y recursos disponibles sobre los impactos sociales y humanos de la desarrollo sostenible.
 
-La TheSocioscope es gratuita, sin ánimo de lucro, financiada con fondos públicos y cumple con el GDPR.
+La IPSP es gratuita, sin ánimo de lucro, financiada con fondos públicos y cumple con el GDPR.
 
 Dirigido por un internacional [Consejo Científico Asesor](/advisory_board) cuenta entre sus [instituciones asociadas](/institutions) principales redes e institutos científicos del mundo.
 

@@ -15,11 +15,11 @@ module.exports = (
   const t = require("./translations/" + lang || "en" + ".json")
   return {
     unsub: true,
-    link: `https://TheSocioscope.org/edit/${pubId}/${key}`,
+    link: `https://IPSP.org/edit/${pubId}/${key}`,
     preview: t.preview,
     emailSubject: `${t.subject} "${projectName}"`,
     content: `<p>${t["dear"]} ${firstName} ${lastName},</p>
-        <p>${t["1"]} "${projectName}" (TheSocioscope-${pubId}) - url: https://TheSocioscope.org/item/${pubId} ${t["2"]}</p>
+        <p>${t["1"]} "${projectName}" (IPSP-${pubId}) - url: https://IPSP.org/item/${pubId} ${t["2"]}</p>
         <br>
         <p style="color:#333333"><small>Subject: </small></p>
         <p>${subject}</p>
@@ -38,7 +38,7 @@ module.exports = (
         <p>${t["6"]}</p>
         `,
     textContent: `Dear ${firstName} ${lastName},/r/n
-        ${t["1"]} "${name}" (TheSocioscope-${pubId}) - url: https://TheSocioscope.org/item/${pubId} ${t["2"]}/r/n
+        ${t["1"]} "${name}" (IPSP-${pubId}) - url: https://IPSP.org/item/${pubId} ${t["2"]}/r/n
 
         Subject:
         ${subject}

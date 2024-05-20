@@ -4,10 +4,10 @@
     "title": "Over",
     "text": {
       "1": {
-        "1": "Het wereldnetwerk voor pandemisch onderzoek (The Socioscope)",
+        "1": "Het wereldnetwerk voor pandemisch onderzoek (IPSP)",
         "2": "platform onderhoudt een doorzoekbaar wereldwijd register van de wetenschappelijke projecten, initiatieven en beschikbare bronnen over de maatschappelijke en menselijke gevolgen van de Covid-19 pandemie."
       },
-      "2": "The Socioscope is gratis, non-profit, wordt door de overheid gefinancierd en voldoet aan de GDPR-regels.",
+      "2": "IPSP is gratis, non-profit, wordt door de overheid gefinancierd en voldoet aan de GDPR-regels.",
       "3": "Gestuurd door een internationaal",
       "4": "telt het onder zijn",
       "5": "grote wetenschappelijke netwerken en instituten wereldwijd.",
@@ -19,7 +19,7 @@
     "subtitle": "Maatschappelijke gevolgen en nasleep van Covid-19:<br> Een wereldwijde doorzoekbare lijst"
   },
   "content": {
-    "blazon": "Sommige partnerinstellingen (financieringsinstellingen, wetenschappelijke genootschappen, enz.) kunnen projecten aanduiden die een peer-reviewproces hebben ondergaan. Zij kunnen deze projecten op The Socioscope voorzien van hun blazoen, wat een label is dat het project doorlicht met de cognitieve autoriteit van de instelling.",
+    "blazon": "Sommige partnerinstellingen (financieringsinstellingen, wetenschappelijke genootschappen, enz.) kunnen projecten aanduiden die een peer-reviewproces hebben ondergaan. Zij kunnen deze projecten op IPSP voorzien van hun blazoen, wat een label is dat het project doorlicht met de cognitieve autoriteit van de instelling.",
     "expectations": "De contribuanten moeten direct ter zaken komen met wat zij doen en wat de toegevoegde waarde van hun project is. De samenvatting moet kort, informatief en voor zichzelf sprekend zijn, en zeer expliciet ingaan op het behandelde probleem, de onderzoeksvraag, de methodologie, de gegevensverzameling, het team en het verwachte resultaat. Er kan een link worden gegeven naar een webpagina met een meer gedetailleerde beschrijving en materiaal.",
     "gdpr": {
       "1": "Ja. Wij respecteren de GDPR/ePR-regels en nog meer.",
@@ -32,7 +32,7 @@
     "howInstitution": {
       "1": "Geef een korte samenvatting waarin u uw organisatie beschrijft",
       "2": "Geef de namen van 5 potentiële referenten",
-      "3": "Vraag uw leden/filialen om hun relevante projecten op The Socioscope te registreren",
+      "3": "Vraag uw leden/filialen om hun relevante projecten op IPSP te registreren",
       "4": "Stuur alle bovenstaande informatie naar",
       "5": "We nemen binnen een paar dagen contact met u op."
     },
@@ -43,60 +43,60 @@
       "4": "Wijzig op elk moment uw projectinformatie (nieuw teamlid, nieuwe resultaten, nieuwe publicatie, nieuwe financiering)."
     },
     "howReferent": {
-      "1": "The Socioscope-referenten zijn senior wetenschappers met een ruime ervaring; zij werken pro bono ten behoeve van de gemeenschap. Een lijst van",
-      "2": "wordt gepubliceerd op de The Socioscope-website. De Internationale Wetenschappelijke Adviesraad valideert de toelating tot de The Socioscope-gemeenschappen van referenten."
+      "1": "IPSP-referenten zijn senior wetenschappers met een ruime ervaring; zij werken pro bono ten behoeve van de gemeenschap. Een lijst van",
+      "2": "wordt gepubliceerd op de IPSP-website. De Internationale Wetenschappelijke Adviesraad valideert de toelating tot de IPSP-gemeenschappen van referenten."
     },
     "promote": {
       "1": "Allereerst, hartelijk dank voor uw steun!",
-      "2": "Als u The Socioscope als initiatief wilt promoten, kunt u gebruik maken van onze social media kanalen. De links vindt u in de voettekst onderaan elke pagina. U kunt ook gebruik maken van de middelen van onze",
-      "3": "Als u een bepaald project van The Socioscope wilt promoten, kunt u gebruik maken van de social share widgets van de share knop",
-      "4": "De korte The Socioscope URL met het The Socioscope-ID nummer van uw project is ook handig als e-mail voettekst.",
-      "5": "Op elke The Socioscope projectpagina. Als u van plan bent een project met een groot publiek te delen, raden wij u aan de projectcontactpersoon te waarschuwen via de knop \"Email deze projectcontactpersoon\" op de betreffende projectpagina."
+      "2": "Als u IPSP als initiatief wilt promoten, kunt u gebruik maken van onze social media kanalen. De links vindt u in de voettekst onderaan elke pagina. U kunt ook gebruik maken van de middelen van onze",
+      "3": "Als u een bepaald project van IPSP wilt promoten, kunt u gebruik maken van de social share widgets van de share knop",
+      "4": "De korte IPSP URL met het IPSP-ID nummer van uw project is ook handig als e-mail voettekst.",
+      "5": "Op elke IPSP projectpagina. Als u van plan bent een project met een groot publiek te delen, raden wij u aan de projectcontactpersoon te waarschuwen via de knop \"Email deze projectcontactpersoon\" op de betreffende projectpagina."
     },
     "whoMembers": {
-      "1": "The Socioscope is een uitgegeven wereldwijd register van projecten, initiatieven en hulpbronnen die functioneert als een open platform waar iedereen doorheen kan bladeren: onderzoekers, financiers, overheden, media en het grote publiek.",
+      "1": "IPSP is een uitgegeven wereldwijd register van projecten, initiatieven en hulpbronnen die functioneert als een open platform waar iedereen doorheen kan bladeren: onderzoekers, financiers, overheden, media en het grote publiek.",
       "2": "We hebben drie soorten contribuanten:",
       "3": "Projectleiders",
-      "4": "die hun project registreren op The Socioscope, het bijwerken, waarschuwingen ontvangen en aanbiedingen voor samenwerking en financiering.",
+      "4": "die hun project registreren op IPSP, het bijwerken, waarschuwingen ontvangen en aanbiedingen voor samenwerking en financiering.",
       "5": "die op de hoogte zijn van nieuwe projecten in hun domein, deze screenen en de projecten die zij het meest vernieuwend en interessant vinden, markeren.",
       "6": "die hun leden verzoeken projecten te registreren, oproepen te publiceren en projecten te financieren, hun blazoen op gemarkeerde projecten te stempelen, geleerden van hoog niveau als referent te leveren."
     },
     "whoReferent": {
-      "1": "The Socioscope-referenten zijn senior wetenschappers met ruime ervaring; zij werken",
+      "1": "IPSP-referenten zijn senior wetenschappers met ruime ervaring; zij werken",
       "2": "pro bono",
       "3": "ten voordele van de gemeenschap. A",
       "4": "lijst van verwijzingen",
-      "5": "wordt gepubliceerd op de The Socioscope website. De Internationale",
-      "6": "valideert de toelating tot de The Socioscope-gemeenschappen van referenten."
+      "5": "wordt gepubliceerd op de IPSP website. De Internationale",
+      "6": "valideert de toelating tot de IPSP-gemeenschappen van referenten."
     },
     "whyInstitution": {
       "1": "Deelnemen aan een wereldwijde inspanning om de crisis op te lossen",
       "2": "Zet het werk van uw leden en filialen in de kijker",
       "3": "uw blazoen op de projecten die u controleert of steunt",
       "4": "Publiceer uw oproepen en belangrijke initiatieven",
-      "5": "Gebruik The Socioscope als een bouwsteen van infrastructuur om de projecten van uw leden en filialen te volgen. Deze bouwstenen van dienst (tag, zoek, volg) worden gratis ter beschikking gesteld."
+      "5": "Gebruik IPSP als een bouwsteen van infrastructuur om de projecten van uw leden en filialen te volgen. Deze bouwstenen van dienst (tag, zoek, volg) worden gratis ter beschikking gesteld."
     },
     "whyProject": {
       "1": "Geef meer zichtbaarheid aan uw project via een speciale webpagina op {0} met een link naar uw eigen webpagina.",
       "2": "Ontvang een bericht over en krijg toegang tot de projecten die overeenkomen met uw interesses (door de projectlijst te doorbladeren, contactverzoeken te krijgen en updatewaarschuwingen te ontvangen).",
       "3": "Krijg een tijdsgestempelde {0}-ID die het mogelijk maakt geciteerd te worden nog voor je publiceert.",
-      "4": "Krijg feedback van The Socioscope-referenties en laat uw project op de voorgrond treden.",
+      "4": "Krijg feedback van IPSP-referenties en laat uw project op de voorgrond treden.",
       "5": "Zichtbaarheid verwerven bij financiers om uw project te steunen"
     },
     "process": {
-      "text1": "The Socioscope bevat bronnen die zijn gefilterd, getagd en geïndexeerd, eerst gescreend door bots en daarna gevalideerd door menselijke experts.",
+      "text1": "IPSP bevat bronnen die zijn gefilterd, getagd en geïndexeerd, eerst gescreend door bots en daarna gevalideerd door menselijke experts.",
       "upload": "Uploaden van een project",
-      "text2": "Bijdragers uploaden de informatie over hun project zelf met een heel eenvoudig formulier op de The Socioscope-website.",
+      "text2": "Bijdragers uploaden de informatie over hun project zelf met een heel eenvoudig formulier op de IPSP-website.",
       "text3": "Zelfverificatie van een project",
       "text4": "Beverli, onze Bot voor e-mailverificatie, zal een e-mail sturen naar het adres dat de inzender als contactpersoon heeft opgegeven met een link. Het project zal pas worden gepubliceerd als de projectcontactpersoon op de link heeft geklikt.",
-      "text5": "Publicatie op The Socioscope-website",
+      "text5": "Publicatie op IPSP-website",
       "text6": "De contactpersoon van het project moet deze link behouden: het is hun token van toegang om hun webpagina te bewerken.",
       "text61": "De contactpersoon van het project moet deze link behouden: het is hun toegangssleutel om hun webpagina te bewerken.",
       "text7": "Validatie van het project",
-      "text8": "Na publicatie zal het The Socioscope-secretariaat het project beoordelen en eventueel preciseringen vragen of wijzigingen aanbevelen. Als er een ernstig probleem wordt gevonden (d.w.z. ethische kwesties of sterke methodologische bedenkingen), zal het project niet worden gepubliceerd (de projectcontactpersoon kan in beroep gaan bij",
+      "text8": "Na publicatie zal het IPSP-secretariaat het project beoordelen en eventueel preciseringen vragen of wijzigingen aanbevelen. Als er een ernstig probleem wordt gevonden (d.w.z. ethische kwesties of sterke methodologische bedenkingen), zal het project niet worden gepubliceerd (de projectcontactpersoon kan in beroep gaan bij",
       "text9": "Aangezien projecten vaak nog in uitvoering zijn, worden updates aangemoedigd. De projectcontactpersoon kan de beveiligde link in het e-mailbericht van Filipeda gebruiken om de projectpagina te bewerken.",
       "text10": "met een link om het te bewerken of te verwijderen",
-      "test51": "Zodra het e-mailadres is geverifieerd, wordt de The Socioscope-projectwebpagina gepubliceerd."
+      "test51": "Zodra het e-mailadres is geverifieerd, wordt de IPSP-projectwebpagina gepubliceerd."
     }
   },
   "main": {
@@ -114,9 +114,9 @@
     },
     "partners": {
       "title": "Partnerinstellingen",
-      "text": "The Socioscope wordt ondersteund door:",
+      "text": "IPSP wordt ondersteund door:",
       "text2": "Alle aanvragen worden beoordeeld door de wetenschappelijke adviesraad.",
-      "text3": "Om lid te worden van The Socioscope en een partner te worden, neem contact op met",
+      "text3": "Om lid te worden van IPSP en een partner te worden, neem contact op met",
       "whyInstitution": "Waarom zou mijn instelling partner moeten worden?",
       "howInstitution": "Hoe wordt mijn instelling partner?"
     },
@@ -136,21 +136,21 @@
     },
     "faq": {
       "title": "Vaak gestelde vragen",
-      "whoMembers": "Voor wie is The Socioscope gemaakt?",
-      "whyProject": "Waarom mijn project registreren op The Socioscope?",
-      "howProject": "Hoe registreer ik mijn project op The Socioscope?",
-      "process": "Wat is het The Socioscope-validatieproces?",
+      "whoMembers": "Voor wie is IPSP gemaakt?",
+      "whyProject": "Waarom mijn project registreren op IPSP?",
+      "howProject": "Hoe registreer ik mijn project op IPSP?",
+      "process": "Wat is het IPSP-validatieproces?",
       "expectations": "Wat wordt er van de contribuanten verwacht?",
-      "whoReferent": "Wie zijn de The Socioscope-referenten en hoe worden zij gekozen?",
+      "whoReferent": "Wie zijn de IPSP-referenten en hoe worden zij gekozen?",
       "whyInstitution": "Wat zijn de voordelen voor mijn instelling om partner te worden?",
       "blazon": "Wat is het doel van het \"blazoen\"?",
       "howInstitution": "Hoe kan mijn instelling partner worden?",
-      "grpd": "Voldoet het The Socioscope aan de GDPR/ePR?",
-      "promote": "Ik wil The Socioscope promoten, hoe moet ik dat doen?"
+      "grpd": "Voldoet het IPSP aan de GDPR/ePR?",
+      "promote": "Ik wil IPSP promoten, hoe moet ik dat doen?"
     },
     "referents": {
       "title": "Referenten",
-      "text": "The Socioscope referenten zijn senior wetenschappers met ruime ervaring, geselecteerd door de Wetenschappelijke Adviesraad; zij werken pro bono ten behoeve van de gemeenschap. Hun taak is het valideren van The Socioscope projecten."
+      "text": "IPSP referenten zijn senior wetenschappers met ruime ervaring, geselecteerd door de Wetenschappelijke Adviesraad; zij werken pro bono ten behoeve van de gemeenschap. Hun taak is het valideren van IPSP projecten."
     },
     "register": {
       "title": "Registreer uw project"
@@ -168,20 +168,20 @@
       "review": "Persrecensie"
     },
     "conference": {
-      "title": "De The Socioscope 2021 Conferentie",
-      "intro": "De The Socioscope 2021-conferentie heeft tot doel de The Socioscope-projecten te promoten en de wetenschappelijke inspanningen rond de huidige gevolgen van de Covid-19-pandemie te bevorderen.",
+      "title": "De IPSP 2021 Conferentie",
+      "intro": "De IPSP 2021-conferentie heeft tot doel de IPSP-projecten te promoten en de wetenschappelijke inspanningen rond de huidige gevolgen van de Covid-19-pandemie te bevorderen.",
       "we-have-2-different-tracks": "We hebben 2 verschillende sporen",
       "project-track": "Het projecttraject",
       "project-track-description": "om reeds voltooide, voorgedrukte of gepubliceerde projecten voor te stellen",
       "wip-track": "Het spoor van werk in uitvoering",
       "wip-track-description": "om een aankomend of lopend project te bespreken en te steunen",
-      "cat-intro": "We sorteren ook de The Socioscope 2021 conferentie aanvragen in 5 categorieën:",
+      "cat-intro": "We sorteren ook de IPSP 2021 conferentie aanvragen in 5 categorieën:",
       "economics": "Economieën in de pandemie",
       "societies": "Samenlevingen in de pandemie",
       "life": "Leven in de Pandemie",
       "research": "Onderzoek in de pandemie",
       "other": "Andere gebieden in verband met de pandemie",
-      "The Socioscope-2021": "The Socioscope 2021",
+      "IPSP-2021": "IPSP 2021",
       "paper_guidance": "Richtlijnen voor onderzoekssamenvattingen en -documenten",
       "video_guidance": "Richtlijnen voor de videopresentaties",
       "tos": "Voorwaarden en bepalingen",
@@ -196,14 +196,14 @@
     "cookieBanner": "Wij gebruiken cookies.",
     "title": "Privacybeleid",
     "agreed": "Akkoord",
-    "text1": "De website van het TheSocioscope (The Socioscope) biedt een wereldwijd overzicht van onderzoeksprojecten, enquêtes en initiatieven over de maatschappelijke en menselijke gevolgen van de Covid-19-pandemie. De website van het TheSocioscope (The Socioscope) biedt een wereldwijd overzicht van onderzoeksprojecten, enquêtes en initiatieven over de maatschappelijke en menselijke gevolgen van de Covid-19-pandemie.",
+    "text1": "De website van het IPSP (IPSP) biedt een wereldwijd overzicht van onderzoeksprojecten, enquêtes en initiatieven over de maatschappelijke en menselijke gevolgen van de Covid-19-pandemie. De website van het IPSP (IPSP) biedt een wereldwijd overzicht van onderzoeksprojecten, enquêtes en initiatieven over de maatschappelijke en menselijke gevolgen van de Covid-19-pandemie.",
     "text10": "Wij verzamelen en slaan geen gegevens van onze gebruikers op die buiten de projectdefinitie vallen. Een basis en anonieme browser vingerafdruk wordt alleen opgeslagen om unieke projectweergaven te schatten en onze projectrangschikking te verbeteren. Wij maken geen e-mailadressen of andere persoonlijke informatie bekend en verkopen deze ook niet. Wij gebruiken geen cookies, behalve die van",
-    "text2": "Door hun project te registreren op de The Socioscope website, geven bijdragers The Socioscope toestemming om de beschrijving van hun project online te publiceren, met uitzondering van hun persoonlijke contactgegevens (e-mailadres), die The Socioscope niet zal delen. Een \"contact\"-knop op de projectpagina stelt bijdragers in staat om e-mails te ontvangen zonder adresopenbaarmaking; zij zijn vrij om hun contactgegevens in hun antwoord te delen als zij dat willen.",
+    "text2": "Door hun project te registreren op de IPSP website, geven bijdragers IPSP toestemming om de beschrijving van hun project online te publiceren, met uitzondering van hun persoonlijke contactgegevens (e-mailadres), die IPSP niet zal delen. Een \"contact\"-knop op de projectpagina stelt bijdragers in staat om e-mails te ontvangen zonder adresopenbaarmaking; zij zijn vrij om hun contactgegevens in hun antwoord te delen als zij dat willen.",
     "text3": "E-mailadressen van medewerkers zijn nodig om een project in te dienen, maar ze zullen nooit online worden bekendgemaakt, noch worden overgedragen of verkocht. Ze zullen alleen worden gebruikt:",
     "text4": "om er zeker van te zijn dat het project door een echte persoon is gemaakt (en niet door een bot)",
-    "text5": "om contactverzoeken te leiden naar contribuanten via de The Socioscope servers;",
-    "text6": "door het The Socioscope team, om contact op te nemen met contribuanten om hun uploads mogelijk te maken, samenwerkingen te bevorderen en af en toe een update te geven over The Socioscope;",
-    "text7": "door The Socioscope referenten, om bewerkingen aan te vragen via The Socioscope servers.",
+    "text5": "om contactverzoeken te leiden naar contribuanten via de IPSP servers;",
+    "text6": "door het IPSP team, om contact op te nemen met contribuanten om hun uploads mogelijk te maken, samenwerkingen te bevorderen en af en toe een update te geven over IPSP;",
+    "text7": "door IPSP referenten, om bewerkingen aan te vragen via IPSP servers.",
     "text8": "In overeenstemming met de Algemene Verordening Gegevensbescherming van de EU kunt u uw recht op toegang tot, correctie van of verzet tegen het gebruik van uw gegevens uitoefenen door contact op te nemen met"
   },
   "contact": {
@@ -277,19 +277,19 @@
     "sorry-for-the-inconvenience": "Sorry voor het ongemak!",
     "an-error-happened-during-the-verification": "Er is een fout opgetreden tijdens de verificatie.",
     "you-can-try-again-and-refresh-this-page-or": "U kunt het opnieuw proberen en deze pagina vernieuwen of",
-    "contact-The Socioscope": "contact The Socioscope",
+    "contact-IPSP": "contact IPSP",
     "saved": "Opgeslagen",
     "do-you-really-want-to-leave-you-have-unsaved-changes": "Wil je echt weg? Je hebt niet-opgeslagen wijzigingen!",
     "project-saved-with-success": "Project met succes opgeslagen.",
-    "The Socioscope-2021-applicant": "The Socioscope 2021 Deelnemer",
+    "IPSP-2021-applicant": "IPSP 2021 Deelnemer",
     "results": "geen resultaat | resultaat | resultaten",
     "learn-more": "Leer meer",
     "see-also": "Zie ook",
     "download-the-pdf-version": "Download de pdf-versie",
-    "register-to-the-The Socioscope21-newsletter": "Aanmelden bij The Socioscope21",
+    "register-to-the-IPSP21-newsletter": "Aanmelden bij IPSP21",
     "gdpr": {
       "checkbox": "Door dit vakje aan te kruisen, ga ik ermee akkoord dat de gegevens die het Institut Paris IAS met dit formulier verzamelt, worden verwerkt door de communicatiedienst van het instituut. De gegevens worden verzameld en verwerkt ten behoeve van de communicatie van het instituut. Het verzamelen van gegevens is verplicht om de nieuwsbrief te ontvangen. De gegevens worden niet doorgegeven aan derden. Ze worden bewaard tot de abonnee vraagt om zich uit te schrijven.",
-      "text1": "Overeenkomstig de Franse wet op de gegevensbescherming van 6 januari 1978, gewijzigd in 2004, en de algemene verordening gegevensbescherming, kunt u uw recht op toegang, rectificatie en verzet uitoefenen door contact op te nemen met het Instituut via info@The Socioscope.org",
+      "text1": "Overeenkomstig de Franse wet op de gegevensbescherming van 6 januari 1978, gewijzigd in 2004, en de algemene verordening gegevensbescherming, kunt u uw recht op toegang, rectificatie en verzet uitoefenen door contact op te nemen met het Instituut via info@IPSP.org",
       "text2": "Wij gebruiken Mailchimp als ons marketing platform. Door hieronder te klikken om u in te schrijven, erkent u dat uw gegevens zullen worden overgedragen aan Mailchimp voor verwerking.",
       "text3": "Hier vindt u meer informatie over de privacyprocedures van Mailchimp."
     },
@@ -332,15 +332,15 @@
     "share": {
       "1": "Mijn project is gepubliceerd op {0}",
       "2": "{0} Project",
-      "3": "Hallo,%0d%0a%0d%0aGelieve dit project te controleren op The Socioscope (TheSocioscope) :%0d%0ahttps%3A%2F%2FThe Socioscope.org%2Fitem%2F${this.$route.params.id}%0d%0a%0d%0aBeste groeten,"
+      "3": "Hallo,%0d%0a%0d%0aGelieve dit project te controleren op IPSP (IPSP) :%0d%0ahttps%3A%2F%2FIPSP.org%2Fitem%2F${this.$route.params.id}%0d%0a%0d%0aBeste groeten,"
     },
     "remove": {
-      "title": "UW PROJECT IS SUCCESVOL VERWIJDERD VAN The Socioscope",
+      "title": "UW PROJECT IS SUCCESVOL VERWIJDERD VAN IPSP",
       "text": "U ontvangt binnenkort een bevestigingsmail.",
       "btn": "Klik hier als u uw project wilt verwijderen",
       "dialog": {
-        "title": "Uw The Socioscope Project verwijderen?",
-        "text1": "Als u uw project verwijdert van The Socioscope, zal het niet langer beschikbaar zijn voor het publiek.",
+        "title": "Uw IPSP Project verwijderen?",
+        "text1": "Als u uw project verwijdert van IPSP, zal het niet langer beschikbaar zijn voor het publiek.",
         "text2": "Als u ervoor kiest om door te gaan, zal uw project onmiddellijk van de site worden gehaald gedurende 2 weken, daarna zullen we het automatisch verwijderen. Tijdens deze eerste 2 weken, kunt u nog steeds contact met ons opnemen via",
         "text3": "als u van gedachten bent veranderd en uw project wilt herstellen.",
         "text4": "Type alstublieft"
@@ -354,7 +354,7 @@
     },
     "name": "Naam",
     "featured": {
-      "text": "Dit is een project dat door de The Socioscope gemeenschap",
+      "text": "Dit is een project dat door de IPSP gemeenschap",
       "label": "aanbevolen"
     },
     "notVerified": "Dit project is niet geverifieerd",
@@ -363,8 +363,8 @@
     "country": "Country-ies | Country | Countries",
     "verified": "Geverifieerd",
     "featureAreAlwaysVerified": "Uitgelichte projecten zijn altijd geverifieerd",
-    "verifiedTooltip": "Vink dit aan om alleen projecten weer te geven die door een The Socioscope Referent zijn geverifieerd",
-    "featuredTooltip": "Vink dit aan om alleen projecten weer te geven die door de The Socioscope gemeenschap zijn voorgesteld",
+    "verifiedTooltip": "Vink dit aan om alleen projecten weer te geven die door een IPSP Referent zijn geverifieerd",
+    "featuredTooltip": "Vink dit aan om alleen projecten weer te geven die door de IPSP gemeenschap zijn voorgesteld",
     "itemType": "Soort project",
     "details": "Details van het project",
     "url": "Url",
@@ -406,8 +406,8 @@
       "title": "Details",
       "conf": {
         "I-wanna-participate-in": "Ik wil deelnemen aan de",
-        "label": "The Socioscope 2021 conferentie",
-        "hint": "U moet een youtube video presentatie geven om deel te nemen aan The Socioscope 2021"
+        "label": "IPSP 2021 conferentie",
+        "hint": "U moet een youtube video presentatie geven om deel te nemen aan IPSP 2021"
       }
     },
     "general": {
@@ -444,7 +444,7 @@
       "4": "toepassen."
     },
     "edit": {
-      "feedback": "Voeg een terugkoppeling toe voor de The Socioscope-referenties (Facultatief)",
+      "feedback": "Voeg een terugkoppeling toe voor de IPSP-referenties (Facultatief)",
       "feedbackLabel": "Uw feedbacktekst (Facultatief)",
       "button": "Dit project bewerken",
       "comment": "Geef commentaar op uw wijzigingen om de referenten te helpen die uw projecten verifiëren of beoordelen.",
@@ -454,7 +454,7 @@
       "1": "U zult binnenkort een bevestigingsmail ontvangen",
       "2": "met een link om te controleren of uw e-mailadres geldig is",
       "3": "Zodra uw e-mail is geverifieerd, zal uw project worden weergegeven in de",
-      "4": "als \"niet gevalideerd\" totdat het is gecontroleerd door een The Socioscope Referent.",
+      "4": "als \"niet gevalideerd\" totdat het is gecontroleerd door een IPSP Referent.",
       "5": "Het is mogelijk dat de referent contact met u opneemt om bepaalde projectgegevens te corrigeren.",
       "6": "Nogmaals hartelijk bedankt voor uw bijdrage.",
       "title": "UW PROJECT IS SUCCESVOL GEREGISTREERD!",
@@ -477,7 +477,7 @@
       "contact_and_team": "Contact & Team",
       "confirmation": "Bevestiging"
     },
-    "privacyPolicy": "het privacybeleid van The Socioscope"
+    "privacyPolicy": "het privacybeleid van IPSP"
   },
   "reset-filters": "Filters resetten",
   "hide-filters": "Verberg Filters",
@@ -487,10 +487,10 @@
   },
   "credits": {
     "title": "Credits",
-    "text1": "The Socioscope  is een collectief initiatief ter bevordering van wetenschappelijke samenwerking en kennisvermeerdering. Het is opgezet door",
+    "text1": "IPSP  is een collectief initiatief ter bevordering van wetenschappelijke samenwerking en kennisvermeerdering. Het is opgezet door",
     "text2": "en de",
     "rfiea": "Stichting RFIEA",
-    "text3": "The Socioscope dankt iedereen die met hun bijdrage en collectieve intelligentie ons allen voorzien van deze gedeelde bron. Speciale dank gaat uit naar Sophie de Bonis, IBM's design lead voor het UX advies.",
+    "text3": "IPSP dankt iedereen die met hun bijdrage en collectieve intelligentie ons allen voorzien van deze gedeelde bron. Speciale dank gaat uit naar Sophie de Bonis, IBM's design lead voor het UX advies.",
     "text4": "Dit is een non-profit en door de overheid gefinancierd initiatief.",
     "text5": "Wij verwelkomen donaties om een niet-rivaliserend wetenschappelijk publiek goed op te bouwen. Als u geïnteresseerd bent, neem dan contact op met:",
     "text6": "Deze website en het logo, alsmede de infrastructuur ervan, zijn ontworpen door",
@@ -851,7 +851,7 @@
       "titles": {
         "0": "Spam",
         "1": "Beledigend, onbeleefd of misbruikend",
-        "2": "Niet relevant voor The Socioscope",
+        "2": "Niet relevant voor IPSP",
         "3": "Opiniestuk",
         "4": "Meervoudige plaatsing van gelijkaardige stukken",
         "5": "Ernstige methodologische beperkingen of gebreken",
@@ -861,7 +861,7 @@
         "0": "Geef de reden aan waarom je dit project blokkeert",
         "1": "Stuk bedoeld om een product, dienst of organisatie te promoten, of waarbij de affiliatie van de auteur niet bekend wordt gemaakt.",
         "2": "De taal en/of inhoud is ongeschikt voor een onderzoeksproject.",
-        "3": "De relatie met de kerndoelstelling van The Socioscope (onderzoek in de sociale en geesteswetenschappen naar de gevolgen van de Covid-19-pandemie) is niet duidelijk genoeg.",
+        "3": "De relatie met de kerndoelstelling van IPSP (onderzoek in de sociale en geesteswetenschappen naar de gevolgen van de Covid-19-pandemie) is niet duidelijk genoeg.",
         "4": "De projecten moeten gebaseerd zijn op empirisch onderzoek of op het gebruik van wetenschappelijke methoden om theoretische of methodologische vooruitgang te boeken. Opiniestukken, pamfletten en commentaren moeten elders worden gepubliceerd.",
         "5": "Gelieve één abstract te posten voor een reeks gelijksoortige of samenhangende papers in plaats van verschillende afzonderlijke abstracts. Eventueel met een link naar een URL die de reeks bevat.",
         "6": "De indiening bereikt momenteel niet de drempel van werk dat in aanmerking komt voor publicatie in een \"peer-reviewed\" tijdschrift."

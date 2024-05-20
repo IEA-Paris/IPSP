@@ -34,7 +34,7 @@ ${Object.keys(projects.slice(0, 10))
 ${t["3"]}
 ${t["4"]},
 
-Ana.Nisow, Automatic news agent, Notifying interesting stuff on TheSocioscope,
+Ana.Nisow, Automatic news agent, Notifying interesting stuff on IPSP,
 ${t["5"]}.`,
   }
 }
