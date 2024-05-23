@@ -267,7 +267,7 @@
     "copyToClipboard": "Copy to clipboard",
     "contact": "CONTACT",
     "teamMember": "TEAM MEMBER(S) | TEAM MEMBER | TEAM MEMBERS",
-    "status": "STATUS",
+    "status": "ACTOR(S)",
     "creationDate": "CREATION DATE",
     "copiedToClipboard": "Copied in clipboard!",
     "from": "From",
@@ -358,7 +358,7 @@
       "label": "featured"
     },
     "notVerified": "This project has not been verified",
-    "status": "Status",
+    "status": "Actor(s)",
     "continent": "Continent(s) | Continent | Continents",
     "country": "Country-ies | Country | Countries",
     "verified": "Verified",
@@ -397,7 +397,7 @@
     "details": {
       "field": "Project discipline(s)",
       "thematic": "Project Thematic(s)",
-      "status": "Project Status",
+      "status": "Actor(s)",
       "url": "Project URL",
       "changeYtUrl": "Change url",
       "yt": "Youtube presentation video URL",
@@ -508,64 +508,139 @@
   "referents": {
     "guidelines": "Referent Guidelines"
   },
-  "types": {
-    "formats": "Formats",
-    "0": "Scientific publications",
-    "1": "Articles, op-eds",
-    "2": "Policy papers",
-    "3": "Reports",
-    "4": "Working papers",
-    "5": "Blogs",
-    "6": "Videos",
-    "7": "Podcasts",
-    "8": "Open calls",
-    "9": "Webinars",
-    "10": "MOOCs",
-    "11": "Posters, slides",
-    "12": "Dataset",
-    "13": "Other",
-    "initiatives": "Types of initiatives",
-    "14": "Grassroot action",
-    "15": "Networked action",
-    "16": "Advocacy",
-    "17": "Campaign",
-    "18": "Regulatory reform",
-    "19": "Research",
-    "20": "Training courses",
-    "21": "Media and information",
-    "22": "Event, conference",
-    "research": "Types of research",
-    "23": "Case Study",
-    "24": "Qualitative analysis",
-    "25": "Quantitative survey, questionnaire, RCT",
-    "26": "Modelling",
-    "27": "Action Research",
-    "28": "Citizen / Participatory Science"
-  },
-  "thematics": {
-    "transversal": "Transversal",
-    "14": "Conditions for systemic transformation",
-    "0": "Measuring what we value",
-    "reforming-the-economic-system:-the-way-forward": "Reforming the economic system: the way forward",
-    "1": "Entrepreneurship and social purpose",
-    "2": "Living wages",
-    "3": "Steering technological change - democratically",
-    "unleashing-the-potential-of-social-change": "Unleashing the potential of social change",
-    "4": "Inspirations, social progress and behavioral change",
-    "5": "Emancipatory Nation States",
-    "6": "Cities and Social Progress",
-    "opening-governance,-democracy-and-participation": "Opening governance, democracy and participation",
-    "7": "Efficient barriers against backsliding on democratic institutions and norms",
-    "8": "Information as a public good in the age of social media and artificial intelligence",
-    "rethinking-our-relation-to-nature": "Rethinking our relation to nature",
-    "9": "Getting out of the extractive paradigm",
-    "10": "Ecological rule of law",
-    "promoting-human-security-and-global-solidarity": "Promoting human security and global solidarity",
-    "11": "Peace and human security",
-    "12": "Migrations and global change",
-    "13": "Global solidarity and global citizenship",
-    "label": "Thematics"
-  },
+  "types": [
+    { "formats": "Formats" },
+    {
+      "0": "Scientific publications"
+    },
+    {
+      "1": "Articles, op-eds"
+    },
+    {
+      "2": "Policy papers"
+    },
+    {
+      "3": "Reports"
+    },
+    {
+      "4": "Working papers"
+    },
+    {
+      "5": "Blogs"
+    },
+    {
+      "6": "Videos"
+    },
+    {
+      "7": "Podcasts"
+    },
+    {
+      "8": "Open calls"
+    },
+    {
+      "9": "Webinars"
+    },
+    {
+      "10": "MOOCs"
+    },
+    {
+      "11": "Posters, slides"
+    },
+    {
+      "12": "Dataset"
+    },
+    {
+      "13": "Other"
+    },
+    {
+      "initiatives": "Types of initiatives"
+    },
+    {
+      "14": "Grassroot action"
+    },
+    {
+      "15": "Networked action"
+    },
+    {
+      "16": "Advocacy"
+    },
+    {
+      "17": "Campaign"
+    },
+    {
+      "18": "Regulatory reform"
+    },
+    {
+      "19": "Research"
+    },
+    {
+      "20": "Training courses"
+    },
+    {
+      "21": "Media and information"
+    },
+    {
+      "22": "Event, conference"
+    },
+    {
+      "research": "Types of research"
+    },
+    {
+      "23": "Case Study"
+    },
+    {
+      "24": "Qualitative analysis"
+    },
+    {
+      "25": "Quantitative survey, questionnaire, RCT"
+    },
+    {
+      "26": "Modelling"
+    },
+    {
+      "27": "Action Research"
+    },
+    {
+      "28": "Citizen / Participatory Science"
+    }
+  ],
+  "thematics": [
+    { "transversal": "Transversal" },
+    { "14": "Conditions for systemic transformation" },
+    { "0": "Measuring what we value" },
+    {
+      "reforming-the-economic-system:-the-way-forward": "Reforming the economic system: the way forward"
+    },
+    { "1": "Entrepreneurship and social purpose" },
+    { "2": "Living wages" },
+    { "3": "Steering technological change - democratically" },
+    {
+      "unleashing-the-potential-of-social-change": "Unleashing the potential of social change"
+    },
+    { "4": "Inspirations, social progress and behavioral change" },
+    { "5": "Emancipatory Nation States" },
+    { "6": "Cities and Social Progress" },
+    {
+      "opening-governance,-democracy-and-participation": "Opening governance, democracy and participation"
+    },
+    {
+      "7": "Efficient barriers against backsliding on democratic institutions and norms"
+    },
+    {
+      "8": "Information as a public good in the age of social media and artificial intelligence"
+    },
+    {
+      "rethinking-our-relation-to-nature": "Rethinking our relation to nature"
+    },
+    { "9": "Getting out of the extractive paradigm" },
+    { "10": "Ecological rule of law" },
+    {
+      "promoting-human-security-and-global-solidarity": "Promoting human security and global solidarity"
+    },
+    { "11": "Peace and human security" },
+    { "12": "Migrations and global change" },
+    { "13": "Global solidarity and global citizenship" }
+  ],
   "fields": {
     "0": "Agriculture and Food",
     "1": "Artificial Intelligence",
@@ -601,24 +676,24 @@
     "31": "Technology",
     "32": "Violence and conflicts"
   },
-  "states": {
-    "3": "Academia",
-    "4": "Associations/NGOs",
-    "5": "Cooperatives/Third Sector",
-    "6": "Corporations",
-    "7": "Local governments",
-    "8": "National governements",
-    "9": "International organizations",
-    "10": "Transnational networks",
-    "11": "Professional associations",
-    "12": "Media",
-    "13": "Philanthropy / foundations",
-    "14": "Religious organizations",
-    "15": "Think tanks",
-    "16": "Trade Unions",
-    "17": "Public Agencies",
-    "18": "Informal/unorganized"
-  },
+  "states": [
+    { "3": "Academia" },
+    { "4": "Associations/NGOs" },
+    { "5": "Cooperatives/Third Sector" },
+    { "6": "Corporations" },
+    { "7": "Local governments" },
+    { "8": "National governements" },
+    { "9": "International organizations" },
+    { "10": "Transnational networks" },
+    { "11": "Professional associations" },
+    { "12": "Media" },
+    { "13": "Philanthropy / foundations" },
+    { "14": "Religious organizations" },
+    { "15": "Think tanks" },
+    { "16": "Trade Unions" },
+    { "17": "Public Agencies" },
+    { "18": "Informal/unorganized" }
+  ],
   "status": {
     "0": "PENDING",
     "1": "PUBLISHED",
