@@ -3,8 +3,8 @@
   "about": {
     "title": "About",
     "text": {
-      "1": "<b>The World Pandemic Research Network (WPRN)</b> platform maintains a searchable global directory of the scientific projects, initiatives and resources available on the societal and human impacts of the Covid-19 pandemic.",
-      "2": "WPRN is free, non-profit, public-funded, and GDPR compliant.",
+      "1": "<b>IPSP</b> platform maintains a searchable global directory of the scientific projects, initiatives and resources available on the societal and human impacts of the Covid-19 pandemic.",
+      "2": "IPSP is free, non-profit, public-funded, and GDPR compliant.",
       "3": "Steered by an international",
       "4": ", it counts among its",
       "5": "major scientific networks and institutes worldwide.",
@@ -14,7 +14,7 @@
     }
   },
   "content": {
-    "blazon": "Some partnering institutions (funding institutions, learned societies, etc.) can signal projects that have undergone a peer review process. They can stamp these projects on WPRN with their blazon, which is a label that vets the project with the institution’s cognitive authority.",
+    "blazon": "Some partnering institutions (funding institutions, learned societies, etc.) can signal projects that have undergone a peer review process. They can stamp these projects on IPSP with their blazon, which is a label that vets the project with the institution’s cognitive authority.",
     "expectations": "Contributors should be straight to the point of what they are doing and whatis the added value of their project. The abstract should be brief,informative and self-explanatory, very explicit about the problem addressed,the research question, the methodology, the data set, the team, and theexpected outcome. A link can be provided to a webpage containing a moredetailed description and material.",
     "gdpr": {
       "1": "Yes. We respect GDPR/ePR rules and even more.",
@@ -27,7 +27,7 @@
     "howInstitution": {
       "1": "Provide a short abstract describing your organization",
       "2": "Provide the names of 5 potential referents",
-      "3": "Ask your members/affiliates to register their relevant projects on WPRN",
+      "3": "Ask your members/affiliates to register their relevant projects on IPSP",
       "4": "Send all of the above information at",
       "5": ". We will get back to you in a matter of days"
     },
@@ -38,56 +38,56 @@
       "4": "Edit your project information (new team member, new results, new publication, new funding) at any time."
     },
     "howReferent": {
-      "1": "WPRN referents are senior scientists with vast experience; they operate pro bono for the benefit of the community. A list of",
-      "2": "is published on the WPRN website. The International Scientific Advisory Board validates admission to the WPRN communities of referents."
+      "1": "IPSP referents are senior scientists with vast experience; they operate pro bono for the benefit of the community. A list of",
+      "2": "is published on IPSP website. The International Scientific Advisory Board validates admission to IPSP communities of referents."
     },
     "promote": {
       "1": "First, thank you very much for your support!",
-      "2": "If you want to promote WPRN as an initiative, you can use our social media channels. Their links can be found in the footer of every page. You can also use the resources of our",
-      "3": "If you want to promote a particular project of WPRN, you can use the social share widgets of the share button",
-      "4": ". The short WPRN url with the WPRN-ID number of your project is also handy as an email footer.",
-      "5": "On every WPRN project page. If you plan to share a project to a large audience, we advise you to give a heads up to the project contact using the \"Email this project contact\" button of the related project page."
+      "2": "If you want to promote IPSP as an initiative, you can use our social media channels. Their links can be found in the footer of every page. You can also use the resources of our",
+      "3": "If you want to promote a particular project of IPSP, you can use the social share widgets of the share button",
+      "4": ". The short IPSP url with IPSP-ID number of your project is also handy as an email footer.",
+      "5": "On every IPSP project page. If you plan to share a project to a large audience, we advise you to give a heads up to the project contact using the \"Email this project contact\" button of the related project page."
     },
     "whoMembers": {
-      "1": "WPRN is an edited global directory of projects, initiatives and resources that functions as an open platform open for all to browse: researchers, funders, governments, media, and the general public alike.",
+      "1": "IPSP is an edited global directory of projects, initiatives and resources that functions as an open platform open for all to browse: researchers, funders, governments, media, and the general public alike.",
       "2": "We have three type of contributors:",
       "3": "Project leaders",
-      "4": "who register their project on WPRN, update it, receive alerts and offers for collaboration and funding.",
+      "4": "who register their project on IPSP, update it, receive alerts and offers for collaboration and funding.",
       "5": "who are aware of new projects in their domain, screen them, flag those they consider most innovative and interesting.",
       "6": "that request their members to register projects, publish calls and fund projects, stamp their blazon on flagged projects, provide high-level scholars as referents."
     },
     "whoReferent": {
-      "1": "WPRN referents are senior scientists with vast experience; they operate",
+      "1": "IPSP referents are senior scientists with vast experience; they operate",
       "2": "pro bono",
       "3": "for the benefit of the community. A",
       "4": "list of referents",
-      "5": "is published on the WPRN website. The International",
-      "6": "validates admission to the WPRN communities of referents."
+      "5": "is published on IPSP website. The International",
+      "6": "validates admission to IPSP communities of referents."
     },
     "whyInstitution": {
       "1": "Participate to a global effort to solve the crisis",
       "2": "Showcase the work of your members and affiliates",
       "3": "ut your blazon on the projects you vet or support",
       "4": "Publish your calls and important initiatives",
-      "5": "Use WPRN as a brick of infrastructure to follow the projects of your members and affiliates. These bricks of service (tag, search, follow) are provided for free."
+      "5": "Use IPSP as a brick of infrastructure to follow the projects of your members and affiliates. These bricks of service (tag, search, follow) are provided for free."
     },
     "whyProject": {
       "1": "Give more visibility to your project via a dedicated webpage on {0} with a link to your own.",
       "2": "Be notified of and get access to projects matching your interests (by browsing the project list, getting contact requests and update alerts).",
       "3": "Get a time-stamped {0}-ID that enables to be cited even before you publish.",
-      "4": "Get feedback from WPRN referents and have your project featured.",
+      "4": "Get feedback from IPSP referents and have your project featured.",
       "5": "Attract visibility from funders to support your project"
     },
     "process": {
-      "text1": "WPRN features resources that have been filtered, tagged, and indexed, screened by bots first and validated by human experts second.",
+      "text1": "IPSP features resources that have been filtered, tagged, and indexed, screened by bots first and validated by human experts second.",
       "upload": "Upload of a project",
-      "text2": "Contributors upload the information about their project themselves with a very simple form on the WPRN website.",
+      "text2": "Contributors upload the information about their project themselves with a very simple form on IPSP website.",
       "text3": "Self-verification of a project",
       "text4": "Beverli, our Bot for email verification, will send an email to the address that the contributor mentioned as the contact person with a link. The project will not be published until the project contact person has clicked on the link.",
-      "text5": "Publication on WPRN website",
-      "text6": "Once the email address has been verified, the WPRN project webpage is published. Filipeda (another bot) will email confirmation to the project contact person <b>with a link to edit or delete it</b>. The project contact person should keep this link: it is their token of access to edit their webpage.",
+      "text5": "Publication on IPSP website",
+      "text6": "Once the email address has been verified, IPSP project webpage is published. Filipeda (another bot) will email confirmation to the project contact person <b>with a link to edit or delete it</b>. The project contact person should keep this link: it is their token of access to edit their webpage.",
       "text7": "Validation of the project",
-      "text8": "After publication, WPRN secretariate will review the project and might request precisions or recommend edits. If a serious issue is found (i.e. no relevance to covid-19 impact, ethical issues or strong methodological reservations), the project will go unpublished (the project contact person can appeal at",
+      "text8": "After publication, IPSP secretariate will review the project and might request precisions or recommend edits. If a serious issue is found (i.e. ethical issues or strong methodological reservations), the project will go unpublished (the project contact person can appeal at",
       "text9": "As projects are often work-in-progress, updates are encouraged. The project contact person can use the secure link provided in Filipeda’s email message to edit the project page."
     }
   },
@@ -106,9 +106,9 @@
     },
     "partners": {
       "title": "Partner institutions",
-      "text": "WPRN is supported by:",
+      "text": "IPSP is supported by:",
       "text2": "All applications will be reviewed by the Scientific Advisory Board.",
-      "text3": "To join WPRN and become a partner, contact",
+      "text3": "To join IPSP and become a partner, contact",
       "whyInstitution": "Why should my institution become partner?",
       "howInstitution": "How do my institution become partner?"
     },
@@ -128,21 +128,21 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "whoMembers": "For whom is WPRN made for?",
-      "whyProject": "Why register my project on WPRN?",
-      "howProject": "How do I register my project on WPRN?",
-      "process": "What is the WPRN validation process ?",
+      "whoMembers": "For whom is IPSP made for?",
+      "whyProject": "Why register my project on IPSP?",
+      "howProject": "How do I register my project on IPSP?",
+      "process": "What is IPSP validation process ?",
       "expectations": "What is expected from contributors?",
-      "whoReferent": "Who are the WPRN referents and how are they chosen?",
+      "whoReferent": "Who are IPSP referents and how are they chosen?",
       "whyInstitution": "What are the benefits for my Institution to become partner?",
       "blazon": "What is the purpose of the “blazon”?",
       "howInstitution": "How can my Institution become a partner?",
-      "grpd": "Does the WPRN comply with the GDPR/ePR?",
-      "promote": "I would like to promote WPRN, how should I proceed?"
+      "grpd": "Does IPSP comply with the GDPR/ePR?",
+      "promote": "I would like to promote IPSP, how should I proceed?"
     },
     "referents": {
       "title": "Referents",
-      "text": "WPRN referents are senior scientists with vast experience, selected by the Scientific Advisory Board; they operate pro bono for the benefit of the community. Their task is to validate WPRN projects."
+      "text": "IPSP referents are senior scientists with vast experience, selected by the Scientific Advisory Board; they operate pro bono for the benefit of the community. Their task is to validate IPSP projects."
     },
     "register": {
       "title": "Register your project"
@@ -164,7 +164,7 @@
     "cookieBanner": "We use cookies.",
     "title": "Privacy policy",
     "agreed": "Agreed",
-    "text1": "The World Pandemic Research Network (WPRN) website provides a global directory of research projects, surveys and initiatives about the societal and human impacts of the Covid-19 pandemic. The World Pandemic Research Network (WPRN) website provides a global directory of research projects, surveys and initiatives about the societal and human impacts of the Covid-19 pandemic. <br /> By registering their project on the WPRN website, contributors authorize WPRN to publish online the description of their project, except for their personal contact details (email address) which WPRN will not share. A “contact” button in the project page enables contributors to receive emails without address disclosure, they are free to share their contact in their reply if they wish. <br /> Email addresses of contributors are needed to submit a project but they will never be disclosed online nor transferred or sold to any third party. They will be used only: <br /> <ul>   <li>     to make sure the project is created by a real person (not by a bot)   </li>   <li>     to redirect contact requests to contributors through the WPRN     servers;   </li>   <li>     by the WPRN team, to contact contributors to enable their uploads,     promote collaborations and occasionally update on WPRN;   </li>   <li>by WPRN referents, to request edits through WPRN servers./li></li> </ul> In compliance with the EU General Data Protection Regulation, you can exert your right to access, correct or oppose the use of your data by contacting",
+    "text1": "IPSP website provides a global directory of research projects, surveys and initiatives about the societal and human impacts of the Covid-19 pandemic.IPSP website provides a global directory of research projects, surveys and initiatives about the societal and human impacts of the Covid-19 pandemic. <br /> By registering their project on IPSP website, contributors authorize IPSP to publish online the description of their project, except for their personal contact details (email address) which IPSP will not share. A “contact” button in the project page enables contributors to receive emails without address disclosure, they are free to share their contact in their reply if they wish. <br /> Email addresses of contributors are needed to submit a project but they will never be disclosed online nor transferred or sold to any third party. They will be used only: <br /> <ul>   <li>     to make sure the project is created by a real person (not by a bot)   </li>   <li>     to redirect contact requests to contributors through IPSP     servers;   </li>   <li>     by IPSP team, to contact contributors to enable their uploads,     promote collaborations and occasionally update on IPSP;   </li>   <li>by IPSP referents, to request edits through IPSP servers./li></li> </ul> In compliance with the EU General Data Protection Regulation, you can exert your right to access, correct or oppose the use of your data by contacting",
     "text2": "We do not track users or store any information outside of the project definition scope. A basic and anonymous browser fingerprint is stored only to estimate unique project views and improve our project ranking feature. We do not disclose or sell email addresses or any other personal information. We do not use cookies except for those of"
   },
   "contact": {
@@ -266,15 +266,15 @@
     "share": {
       "1": "My project is published on {0}",
       "2": "{0} Project",
-      "3": "Hello,%0d%0a%0d%0aPlease check this project on WPRN (World Pandemic Research Network) :%0d%0ahttps%3A%2F%2Fwprn.org%2Fitem%2F${this.$route.params.id}%0d%0a%0d%0aBest regards,"
+      "3": "Hello,%0d%0a%0d%0aPlease check this project on IPSP :%0d%0ahttps%3A%2F%IPSP%2Fitem%2F${this.$route.params.id}%0d%0a%0d%0aBest regards,"
     },
     "remove": {
-      "title": "YOUR PROJECT HAS BEEN SUCCESSFULLY REMOVED FROM WPRN",
+      "title": "YOUR PROJECT HAS BEEN SUCCESSFULLY REMOVED FROM IPSP",
       "text": "You will receive a confirmation email shortly.",
       "btn": "Click here if you want to remove your project",
       "dialog": {
-        "title": "Remove your WPRN Project?",
-        "text1": "If you remove your project from WPRN, it will be no longer available to the public.",
+        "title": "Remove your IPSP Project?",
+        "text1": "If you remove your project from IPSP, it will be no longer available to the public.",
         "text2": "If you choose to proceed, your project will be immediatly removed for 2 weeks, then we will automatically delete it. During the first of those 2 weeks you can still contact us at",
         "text3": "if you changed your mind and wish to restore your project.",
         "text4": "Please type <i>remove</i> below to activate the remove project button."
@@ -287,7 +287,7 @@
     },
     "name": "Name",
     "featured": {
-      "text": "This is a project featured by the WPRN community"
+      "text": "This is a project featured by IPSP community"
     },
     "notVerified": "This project has not been verified",
     "status": "Status",
@@ -295,8 +295,8 @@
     "country": "Country-ies | Country | Countries",
     "verified": "Verified",
     "featureAreAlwaysVerified": "Featured projects are always verified",
-    "verifiedTooltip": "Tick this to display only projects verified by a WPRN Referent",
-    "featuredTooltip": "Tick this to display only projects featured by the WPRN community",
+    "verifiedTooltip": "Tick this to display only projects verified by a IPSP Referent",
+    "featuredTooltip": "Tick this to display only projects featured by IPSP community",
     "itemType": "Project Type",
     "details": "Project details",
     "url": "Url",
@@ -370,7 +370,7 @@
       "4": " apply."
     },
     "edit": {
-      "feedback": "Add a feedback for the WPRN referents (Optional)",
+      "feedback": "Add a feedback for IPSP referents (Optional)",
       "feedbackLabel": "Your feedback text (Optional)",
       "button": "Edit this project",
       "comment": "Comment your changes to help the referents who are verifying or rating your projects.",
@@ -380,7 +380,7 @@
       "1": "You will receive a confirmation email shortly ",
       "2": "with a link to verify that your email address is valid",
       "3": "Once your email is verified, your project will be displayed in the",
-      "4": "as \"not validated\" until it is checked by a WPRN Referent.",
+      "4": "as \"not validated\" until it is checked by a IPSP Referent.",
       "5": "You may be contacted by the referent to correct some of your project information.",
       "6": "Thank you again for your contribution.",
       "title": "YOUR PROJECT HAS BEEN SUCCESSFULLY REGISTERED!",
@@ -407,10 +407,10 @@
   },
   "credits": {
     "title": "Credits",
-    "text1": "WPRN (Word Pandemic Research Network) is a collective effort to promote scientific collaboration and knowledge advancement. It was originated by",
+    "text1": "IPSP  is a collective effort to promote scientific collaboration and knowledge advancement. It was originated by",
     "text2": "and the",
     "rfiea": "RFIEA Foundation",
-    "text3": "WPRN thanks all those whose contribution and collective intelligence provide us all with this shared resource. Special thanks to Sophie de Bonis, IBM’s design lead for the UX advices.",
+    "text3": "IPSP thanks all those whose contribution and collective intelligence provide us all with this shared resource. Special thanks to Sophie de Bonis, IBM’s design lead for the UX advices.",
     "text4": "This is a non-profit public-funded initiative.",
     "text5": "We welcome donations to build a non rival scientific public good. If you are interested, please contact:",
     "text6": "This website and logo as well as its infrastructure have been designed by",
@@ -450,6 +450,32 @@
     "18": "Press article",
     "19": "Research tracker",
     "20": "Other Resource",
+    "21": "Archival materials",
+    "22": "Art exhibitions",
+    "23": "Code and Software",
+    "24": "Bibliography",
+    "25": "Books and book chapters",
+    "26": "Call for Papers",
+    "27": "Recipe",
+    "28": "Learning Object",
+    "29": "Images and photos",
+    "30": "Lessons",
+    "31": "Manuscripts and preprints",
+    "32": "Maps",
+    "33": "Instructional Materials",
+    "34": "Business model",
+    "35": "Expertise offer",
+    "36": "Cultural Practice",
+    "37": "Public slideshow",
+    "38": "Review",
+    "39": "Scores",
+    "40": "Seminars",
+    "41": "Supply chain",
+    "42": "Survey data",
+    "43": "Textual materials",
+    "44": "Thesis",
+    "45": "Web Page",
+    "46": "Catering",
     "dissemination": "DISSEMINATION",
     "collaborativeAction": "COLLABORATIVE ACTION",
     "research": "RESEARCH PROJECT"
@@ -479,7 +505,8 @@
     "22": "Risks, Crisis Management",
     "23": "Religions and Worldviews",
     "24": "Violence, Criminality, Security",
-    "25": "Work, Welfare, Social protection"
+    "25": "Work, Welfare, Social protection",
+    "26": "Industry"
   },
   "fields": {
     "0": "Anthropology",
@@ -742,7 +769,7 @@
       "titles": {
         "0": "Spam",
         "1": "Offensive, rude or abusive ",
-        "2": "Irrelevant to WPRN",
+        "2": "Irrelevant to IPSP",
         "3": "Opinion piece",
         "4": "Multiple posting of similar pieces",
         "5": "Serious methodological limitations or flaws",
@@ -752,7 +779,7 @@
         "0": "Indicate the reason why you block this project",
         "1": "Piece intended to promote a product, service or organization, or not disclosing author’s affiliation.",
         "2": "The language and/or content is inappropriate for a research project. ",
-        "3": "The relation to the core aim of WPRN (social sciences and humanities research on the impacts of the Covid-19 pandemic) is not clear enough.",
+        "3": "The relation to the core aim of IPSP (social sciences and humanities research on the impacts of the Covid-19 pandemic) is not clear enough.",
         "4": "Projects should be based on empirical research, or using scientific methods to bring theoretical or methodological advances. Opinion pieces, pamphlets, and commentaries should be published elsewhere.",
         "5": "Please post one single abstract for a set of similar or connected papers rather than several distinct abstracts. Possibly with a link  to a URL containing the set.",
         "6": "The submission does not currently reach the threshold of work that would be considered for publication in a peer-reviewed journal."

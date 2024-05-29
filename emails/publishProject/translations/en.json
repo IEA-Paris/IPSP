@@ -1,0 +1,16 @@
+{
+  "subject": "Please confirm your email address to publish your project on IPSP",
+  "dear": "Dear",
+  "your_project": "Your project",
+  "is-published": "is published on IPSP",
+  "thank-you": "Thank you for confirming your address!",
+  "verify": "Verify my email",
+  "1": "is now published and live on IPSP. Here is its public page url",
+  "2": "You can edit or delete it using this encrypted link",
+  "3": "Please keep this link for future editions, you will need it to edit or delete your project",
+  "4": "You may be contacted by a IPSP referent in the coming days with a request to edit or update some of your project content. Once validated, your project will be marked as verified by the community",
+  "5": "Feel free to register any other projects, to circulate the information about IPSP, and to get in contact with other project managers!",
+  "6": "Please note: Until you verify your email address, you will not receive any other email from us, and your project will not appear on IPSP. This is to avoid projects uploaded by bots, and spam",
+  "7": "Thank you again for contributing to IPSP, a commons for research",
+  "9": "on behalf of IPSP.org"
+}

@@ -1,0 +1,12 @@
+{
+  "1": "Es wurde eine neue Kontaktanfrage für Ihr Projekt empfangen",
+  "2": "über die anonyme Kontaktfunktion Ihres Projekts in IPSP. Sie lautet:",
+  "3": "Diese Nachricht wurde von IPSP automatisch weitergeleitet, der Absender kennt Ihre E-Mail-Adresse gemäß den Datenschutzbestimmungen von IPSP bisher nicht.",
+  "4": "Bitte beachten Sie, dass Sie bei der direkten Beantwortung der E-Mail Adresse dieser Kontaktanfrage Ihre eigene E-Mail-Adresse preisgeben.",
+  "5": "Mit freundlichen Grüßen",
+  "6": "im Namen des IPSP",
+  "subject": "IPSP - Neue Kontaktanfrage für Ihr Projekt",
+  "preview": "IPSP - Neue Kontaktanfrage",
+  "dear": "Sehr geehrte*r",
+  "your_project": "Ihr Projekt"
+}

@@ -1,0 +1,11 @@
+{
+  "1": "パスワード変更のリクエストを受けて、IPSP referent Accountの新しいパスワードを設定するためのリンクをご紹介します。",
+  "2": "世界パンデミック研究ネットワークを代表して",
+  "subject": "お客様のパスワード変更依頼",
+  "dear": "拝啓 ",
+  "your_project": "あなたのプロジェクト",
+  "has_been_correctly_uploaded_on_IPSP": "がIPSPに正しくアップロードされました。",
+  "contact": "今回のパスワード変更を希望されなかった場合は、下記までご連絡ください。",
+  "to-report-it": "報告する",
+  "change-my-password": "パスワードの変更"
+}

@@ -1,33 +1,33 @@
 {
   "root": {
     "name": "ipsp",
-    "fullName": "International Platform for Social Progress",
-    "subtitle": "We gather thinkers and doers worldwide to design forward-looking solutions promoting social progress.",
-    "description": "We gather thinkers and doers worldwide to design forward-looking solutions promoting social progress.",
+    "fullName": "International Panel on Social Progress",
+    "subtitle": "",
+    "description": "",
     "reCaptcha": "6Lc_xuUUAAAAALwowUq0cC0wFtFnZ2NCi3UH4i1j",
-    "url": "https://wprn.org",
-    "splash_title": "Collective Intelligence for Action",
+    "url": "https://ip4sp.org",
+    "splash_title": "",
     "item_sg": "Project",
     "item_pl": "Projects",
     "isBranch": false,
-    "titleInLogo": false,
-    "titleBackdrop": true,
+    "titleInLogo": true,
+    "titleBackdrop": false,
     "statsImage": "parallax.jpg",
     "logo": {
-      "file": "logo.png",
-      "fileSmallLight": "logo_light.svg",
-      "fileSmallDark": "logo_dark.svg",
+      "file": "icon.png",
+      "fileSmallLight": "icon.png",
+      "fileSmallDark": "icon.png",
       "sizes": {
-        "xs": "20vw",
-        "sm": "20vw",
-        "md": "15vw",
-        "lg": "10vw",
-        "xl": "10vw"
+        "xs": "45vw",
+        "sm": "30vw",
+        "md": "25vw",
+        "lg": "20vw",
+        "xl": "20vw"
       }
     },
     "event": {
       "active": false,
-      "name": "#WPRN21",
+      "name": "",
       "color": "#F79256"
     },
     "fields": {
@@ -53,24 +53,24 @@
       "referents": true,
       "publicAlerts": true,
       "projectAlerts": true,
-      "teaser": ""
+      "teaser": "lKzvFrxlQZw"
     },
     "i18n": {
       "default": "fr"
     },
     "count": {
-      "institutions": 426,
-      "referents": 113
+      "institutions": 16,
+      "referents": 17
     },
     "font": {
       "family": {
-        "title": "Merriweather:100, 300, 400, 500, 700, 900",
-        "body": "Open Sans"
+        "title": "Poppins:100,300,400,500,700,900",
+        "body": "Nunito Sans"
       },
       "fallback": "sans-serif"
     },
     "splash": {
-      "colour1": "#2196f3",
+      "colour1": "#000",
       "colour2": "#144DDB",
       "count": 3,
       "dy": 0.05,
@@ -80,37 +80,561 @@
       "scale": 0.11,
       "speed": 0.05,
       "video": true,
-      "file": "/splash.mp4"
+      "file": "/splash.webm",
+      "poster": "/poster.png"
     },
     "theme": {
       "dark": false,
       "themes": {
         "light": {
-          "primary": "#2196f3",
+          "primary": "#1155cc",
           "secondary": "#424242",
-          "accent": "#82B1FF",
-          "error": "#FF5252",
-          "info": "#2196F3",
-          "success": "#4CAF50",
+          "accent": "#006E90",
+          "error": "#E16036",
+          "info": "#ADCAD6",
+          "success": "#99C24D",
           "warning": "#FFC107"
         },
         "dark": {
-          "primary": "#2196f3",
+          "primary": "#1155cc",
           "secondary": "#424242",
-          "accent": "#424242",
-          "info": "#2196f3",
-          "warning": "#FF8F00",
+          "accent": "#006E90",
+          "info": "#ADCAD6",
+          "warning": "#FFC107",
           "error": "#D84315",
-          "success": "#00E676"
+          "success": "#99C24D"
         }
       }
     }
   },
   "referent": {
-    "name": "R-WPRN",
-    "fullName": "World Pandemic Research Network",
-    "description": "Public initiative to publish and share in one single place the list of all research initiatives and surveys about the current pandemic of Covid-19 coronavirus.",
+    "name": "r-ipsp",
+    "fullName": "IPSP referent website",
+    "description": "Repository of the Initiatives for IPSP",
     "reCaptcha": "6Lc_xuUUAAAAALwowUq0cC0wFtFnZ2NCi3UH4i1j",
-    "url": "https://referent.wprn.org"
-  }
+    "url": "https://referent.ip4sp.org"
+  },
+  "types": [
+    {
+      "value": 0,
+      "text": "types.0",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 1,
+      "text": "types.1",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 2,
+      "text": "types.2",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 3,
+      "text": "types.3",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 4,
+      "text": "types.4",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 5,
+      "text": "types.5",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 6,
+      "text": "types.6",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 44,
+      "text": "types.44",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    { "header": "types.collaborativeAction" },
+    { "divider": true },
+    {
+      "value": 40,
+      "text": "types.40",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 7,
+      "text": "types.7",
+      "urlMandatory": true,
+      "dateTime": false,
+      "timeInterval": true,
+      "requireName": false,
+      "teamMandatory": false,
+      "isContactable": false,
+      "citeWidget": false
+    },
+    {
+      "value": 21,
+      "text": "types.21",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": true,
+      "requireName": false,
+      "teamMandatory": false,
+      "isContactable": true,
+      "citeWidget": false
+    },
+    {
+      "value": 8,
+      "text": "types.8",
+      "urlMandatory": true,
+      "dateTime": false,
+      "timeInterval": true,
+      "requireName": false,
+      "teamMandatory": false,
+      "isContactable": false,
+      "citeWidget": false
+    },
+    {
+      "value": 9,
+      "text": "types.9",
+      "urlMandatory": true,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 10,
+      "text": "types.10",
+      "urlMandatory": false,
+      "dateTime": true,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    { "header": "types.dissemination" },
+    { "divider": true },
+    {
+      "value": 37,
+      "text": "types.37",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 11,
+      "text": "types.11",
+      "urlMandatory": true,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 12,
+      "text": "types.12",
+      "urlMandatory": true,
+      "dateTime": true,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 13,
+      "text": "types.13",
+      "urlMandatory": true,
+      "dateTime": true,
+      "timeInterval": false,
+      "requireName": false,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 14,
+      "text": "types.14",
+      "urlMandatory": true,
+      "dateTime": true,
+      "timeInterval": false,
+      "requireName": false,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 15,
+      "text": "types.15",
+      "urlMandatory": true,
+      "dateTime": true,
+      "timeInterval": true,
+      "requireName": false,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": false
+    },
+    {
+      "value": 16,
+      "text": "types.16",
+      "urlMandatory": true,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 17,
+      "text": "types.17",
+      "urlMandatory": true,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 18,
+      "text": "types.18",
+      "urlMandatory": true,
+      "dateTime": true,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 19,
+      "text": "types.19",
+      "urlMandatory": true,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": false,
+      "teamMandatory": true,
+      "isContactable": false,
+      "citeWidget": false
+    },
+    {
+      "value": 21,
+      "text": "types.21",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 22,
+      "text": "types.22",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 23,
+      "text": "types.23",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 24,
+      "text": "types.24",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 25,
+      "text": "types.25",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 27,
+      "text": "types.27",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 28,
+      "text": "types.28",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 29,
+      "text": "types.29",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 30,
+      "text": "types.30",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 31,
+      "text": "types.31",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 33,
+      "text": "types.33",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 20,
+      "text": "types.20",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 26,
+      "text": "types.26",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 32,
+      "text": "types.32",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 34,
+      "text": "types.34",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 35,
+      "text": "types.35",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 36,
+      "text": "types.36",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 38,
+      "text": "types.38",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 39,
+      "text": "types.39",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 41,
+      "text": "types.41",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 42,
+      "text": "types.42",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 43,
+      "text": "types.43",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 45,
+      "text": "types.45",
+      "urlMandatory": false,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true // if the cite widget should be displaye
+    }
+  ]
 }
