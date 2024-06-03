@@ -1,0 +1,27 @@
+name: Trigger Yggdrasil CI
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+
+  yggdrasil:
+
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+
+      - name: Invoke yggdrasil workflow
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: Deploy
+          repo: wprn/yggdrasil
+          token: ${{ secrets.SERVICE_USER_PAT }}
+          ref: refs/heads/develop
+          inputs: '{ "forceFrontendJob": "1", "websiteName": "ipsp" }'
