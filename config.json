@@ -53,7 +53,7 @@
       "referents": true,
       "publicAlerts": true,
       "projectAlerts": true,
-      "teaser": "lKzvFrxlQZw"
+      "teaser": "p1h4pPhobI4"
     },
     "i18n": {
       "default": "fr"
@@ -203,8 +203,6 @@
       "isContactable": true,
       "citeWidget": true
     },
-    { "header": "types.collaborativeAction" },
-    { "divider": true },
     {
       "value": 40,
       "text": "types.40",
@@ -271,8 +269,6 @@
       "isContactable": true,
       "citeWidget": true
     },
-    { "header": "types.dissemination" },
-    { "divider": true },
     {
       "value": 37,
       "text": "types.37",
@@ -634,7 +630,7 @@
       "requireName": true,
       "teamMandatory": true,
       "isContactable": true,
-      "citeWidget": true // if the cite widget should be displaye
+      "citeWidget": true
     }
   ]
 }

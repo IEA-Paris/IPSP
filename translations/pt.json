@@ -622,6 +622,7 @@
     "29": "Medicina",
     "30": "Ciência de Sistemas",
     "31": "Nutrição",
+    "32": "Violência e conflitos",
     "socialSciencesAndHumanities": "Ciências Sociais e Humanidades",
     "otherSciences": "Outras ciências"
   },
@@ -897,6 +898,7 @@
     "netias": "O NetIAS reúne 25 Institutos de Estudos Avançados (IAS) em toda a Europa. Foi criado em 2004 para estimular o diálogo sobre as práticas dos IAS e as possíveis formas de cooperação. Em toda a rede, mais de 500 pesquisadores são acolhidos todos os anos pelo período de até um ano acadêmico completo. Os membros do NetIAS compartilham o objetivo de criar comunidades de aprendizagem internacionais e multidisciplinares. A abertura e a liberdade de que os bolsistas usufruem para as suas pesquisas servem para promover intercâmbios científicos e intelectuais.",
     "uai": "A UAI é a organização mundial das academias nacionais de ciências humanas e sociais. Os seus objetivos são iniciar, reconhecer, promover e financiar projetos internacionais de pesquisa baseados na pesquisa a longo prazo. Fundada em 1919 em Paris, com um Secretariado Geral com sede em Bruxelas, a UAI compreende atualmente mais de 100 academias de 63 países em todos os continentes.",
     "ubias": "UBIAS significa \"University-Based Institutes for Advanced Study\". Ao contrário dos Institutos de Estudos Avançados tradicionais, os institutos UBIAS são associados ou integrados a uma universidade e contribuem ativamente para a cultura acadêmica e para as realizações científicas da sua universidade de origem. A rede é atualmente composta por 44 institutos membros de 21 países.",
+    "rfiea": "Desde 2007, a missão da Fundação RFIEA é garantir que os Institutos de Estudos Avançados façam parte do panorama da investigação francesa no domínio das ciências humanas e sociais. Contribui para garantir a qualidade e a complementaridade dos institutos e para reforçar o seu reconhecimento nacional, europeu e internacional.",
     "fmsh": "Sendo uma encruzilhada internacional para as Ciências Humanas e Sociais, a Fundação Maison des Sciences de l'Homme trabalha em sinergia com as comunidades e redes científicas internacionais, e fomenta a colaboração entre campos científicos."
   },
   "with-the-support-of": "Com o apoio de"

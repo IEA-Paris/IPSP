@@ -509,7 +509,9 @@
     "guidelines": "Referent Guidelines"
   },
   "types": [
-    { "formats": "Formats" },
+    {
+      "formats": "Formats"
+    },
     {
       "0": "Scientific publications"
     },
@@ -605,21 +607,39 @@
     }
   ],
   "thematics": [
-    { "transversal": "Transversal" },
-    { "14": "Conditions for systemic transformation" },
-    { "0": "Measuring what we value" },
+    {
+      "transversal": "Transversal"
+    },
+    {
+      "14": "Conditions for systemic transformation"
+    },
+    {
+      "0": "Measuring what we value"
+    },
     {
       "reforming-the-economic-system:-the-way-forward": "Reforming the economic system: the way forward"
     },
-    { "1": "Entrepreneurship and social purpose" },
-    { "2": "Living wages" },
-    { "3": "Steering technological change - democratically" },
+    {
+      "1": "Entrepreneurship and social purpose"
+    },
+    {
+      "2": "Living wages"
+    },
+    {
+      "3": "Steering technological change - democratically"
+    },
     {
       "unleashing-the-potential-of-social-change": "Unleashing the potential of social change"
     },
-    { "4": "Inspirations, social progress and behavioral change" },
-    { "5": "Emancipatory Nation States" },
-    { "6": "Cities and Social Progress" },
+    {
+      "4": "Inspirations, social progress and behavioral change"
+    },
+    {
+      "5": "Emancipatory Nation States"
+    },
+    {
+      "6": "Cities and Social Progress"
+    },
     {
       "opening-governance,-democracy-and-participation": "Opening governance, democracy and participation"
     },
@@ -632,14 +652,24 @@
     {
       "rethinking-our-relation-to-nature": "Rethinking our relation to nature"
     },
-    { "9": "Getting out of the extractive paradigm" },
-    { "10": "Ecological rule of law" },
+    {
+      "9": "Getting out of the extractive paradigm"
+    },
+    {
+      "10": "Ecological rule of law"
+    },
     {
       "promoting-human-security-and-global-solidarity": "Promoting human security and global solidarity"
     },
-    { "11": "Peace and human security" },
-    { "12": "Migrations and global change" },
-    { "13": "Global solidarity and global citizenship" }
+    {
+      "11": "Peace and human security"
+    },
+    {
+      "12": "Migrations and global change"
+    },
+    {
+      "13": "Global solidarity and global citizenship"
+    }
   ],
   "fields": {
     "0": "Agriculture and Food",
@@ -677,22 +707,54 @@
     "32": "Violence and conflicts"
   },
   "states": [
-    { "3": "Academia" },
-    { "4": "Associations/NGOs" },
-    { "5": "Cooperatives/Third Sector" },
-    { "6": "Corporations" },
-    { "7": "Local governments" },
-    { "8": "National governements" },
-    { "9": "International organizations" },
-    { "10": "Transnational networks" },
-    { "11": "Professional associations" },
-    { "12": "Media" },
-    { "13": "Philanthropy / foundations" },
-    { "14": "Religious organizations" },
-    { "15": "Think tanks" },
-    { "16": "Trade Unions" },
-    { "17": "Public Agencies" },
-    { "18": "Informal/unorganized" }
+    {
+      "3": "Academia"
+    },
+    {
+      "4": "Associations/NGOs"
+    },
+    {
+      "5": "Cooperatives/Third Sector"
+    },
+    {
+      "6": "Corporations"
+    },
+    {
+      "7": "Local governments"
+    },
+    {
+      "8": "National governements"
+    },
+    {
+      "9": "International organizations"
+    },
+    {
+      "10": "Transnational networks"
+    },
+    {
+      "11": "Professional associations"
+    },
+    {
+      "12": "Media"
+    },
+    {
+      "13": "Philanthropy / foundations"
+    },
+    {
+      "14": "Religious organizations"
+    },
+    {
+      "15": "Think tanks"
+    },
+    {
+      "16": "Trade Unions"
+    },
+    {
+      "17": "Public Agencies"
+    },
+    {
+      "18": "Informal/unorganized"
+    }
   ],
   "status": {
     "0": "PENDING",
@@ -962,8 +1024,10 @@
     "uai": "The UAI is the world organization of national academies in the humanities and social sciences. Its objectives are to initiate, recognize, promote and finance international research projects based on long-term research. Founded in 1919 in Paris with a General Secretariat based in Brussels, the UAI currently comprises more than 100 Academies from 63 countries and all continents.",
     "ubias": "UBIAS stands for “University-Based Institutes for Advanced Study”. Unlike traditional Institutes for Advanced Study, UBIAS institutes are associated with or embedded within a university, and actively contribute to the academic culture and the scientific achievements of their home university. The network now comprises 44 member institutes in 21 countries.",
     "fmsh": "As an international crossroads for Humanities and Social Sciences, the Foundation Maison des Sciences de l'Homme works in synergy with international scientific communities and networks, and fosters collaboration amongst scientific fields.",
+    "rfiea": "Since 2007, the mission of the RFIEA Foundation has been to ensure that the Instituts d'Études Avancées are part of the French research landscape in the humanities and social sciences. It helps to guarantee the quality and complementarity of the institutes and to strengthen their national, European and international recognition.",
     "nomis": "NOMIS’ vision is to “create a spark” in the world of science by enabling and supporting pioneering research in the natural sciences, social sciences and the humanities that benefits humankind and our planet. Our mission is to support and enable insight-driven science across all disciplines, focusing on researchers who put forth bold new ideas, exhibit a pioneering spirit and seek to inspire the world around them."
   },
   "with-the-support-of": "With the support of",
-  "provide-an-url-for-contact-requests": "Provide an URL for contact requests"
+  "provide-an-url-for-contact-requests": "Provide an URL for contact requests",
+  "has_been_correctly_uploaded_on_Paris-Recherche": "has been correctly uploaded"
 }
