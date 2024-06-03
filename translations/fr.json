@@ -310,7 +310,7 @@
       "criteria2": "avec votre projet que nous devrions prendre en compte lors de la génération de vos notifications par e-mail ?"
     },
     "type": "Type(s) | Types",
-    "field": "Discipline(s) | Discipline | Disciplines",
+    "field": "Domaine(s) | Domaine | Domaines",
     "typeHint": "Par exemple, étude qualitative, enquête...",
     "fieldHint": "par exemple, l'histoire, les sciences sociales...",
     "thematic": "Thématique(s) | Thématique(s) | Thématique(s)",
@@ -889,7 +889,7 @@
     }
   },
   "type": "Type",
-  "disciplines": "Disciplines",
+  "disciplines": "Domaines",
   "projects": "Projets",
   "institutions": {
     "eassh": "L'Alliance européenne pour les sciences sociales et humaines a été créée en 2015. Il s'agit d'une organisation de membres couvrant tous les domaines des sciences humaines et sociales qui s'efforcent de promouvoir ces domaines de connaissance et de recherche et de s'engager auprès des décideurs politiques et des parties prenantes concernés. L'EASSH compte plus de 50 organisations membres comprenant un large éventail de domaines disciplinaires, de parties prenantes et d'universités de toute l'Europe.",

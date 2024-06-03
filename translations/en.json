@@ -310,7 +310,7 @@
       "criteria2": "with your project that we should consider when generating your email notifications?"
     },
     "type": "Type(s) | Type | Types",
-    "field": "Discipline(s) | Discipline | Disciplines",
+    "field": "Domain(s) | Domain | Domains",
     "typeHint": "e.g. Qualitative study, survey...",
     "fieldHint": "e.g. History, Social Sciences...",
     "thematic": "Thematic(s) | Thematic | Thematics",
@@ -513,7 +513,7 @@
       "formats": "Formats"
     },
     {
-      "0": "Scientific publications"
+      "29": "Scientific publications"
     },
     {
       "1": "Articles, op-eds"
@@ -1014,7 +1014,7 @@
     }
   },
   "type": "Type",
-  "disciplines": "Disciplines",
+  "disciplines": "Domains",
   "projects": "Projects",
   "institutions": {
     "eassh": "The European Alliance for the Social Sciences and the Humanities was formed in 2015. It is a membership organisation spanning all areas of the humanities and social sciences working to promote these areas of knowledge and research and to engage with relevant policymakers and stakeholders. EASSH has over 50 member organisations including a wide range of disciplinary areas, stakeholders and universities from across Europe.",
