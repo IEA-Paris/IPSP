@@ -510,100 +510,76 @@
   },
   "types": [
     {
-      "formats": "Formats"
-    },
-    {
-      "29": "Scientific publications"
-    },
-    {
-      "1": "Articles, op-eds"
-    },
-    {
-      "2": "Policy papers"
-    },
-    {
-      "3": "Reports"
-    },
-    {
-      "4": "Working papers"
-    },
-    {
-      "5": "Blogs"
-    },
-    {
-      "6": "Videos"
-    },
-    {
-      "7": "Podcasts"
-    },
-    {
-      "8": "Open calls"
-    },
-    {
-      "9": "Webinars"
-    },
-    {
-      "10": "MOOCs"
-    },
-    {
-      "11": "Posters, slides"
-    },
-    {
-      "12": "Dataset"
-    },
-    {
-      "13": "Other"
-    },
-    {
       "initiatives": "Types of initiatives"
     },
     {
-      "14": "Grassroot action"
+      "0": "Grassroot action"
     },
     {
-      "15": "Networked action"
+      "1": "Networked action"
     },
     {
-      "16": "Advocacy"
+      "2": "Advocacy"
     },
     {
-      "17": "Campaign"
+      "3": "Campaign"
     },
     {
-      "18": "Regulatory reform"
+      "4": "Regulatory reform"
     },
     {
-      "19": "Research"
+      "5": "Research"
     },
     {
-      "20": "Training courses"
+      "6": "Training courses"
     },
     {
-      "21": "Media and information"
+      "7": "Media and information"
     },
     {
-      "22": "Event, conference"
+      "8": "Event"
     },
     {
-      "research": "Types of research"
+      "formats": "Formats"
     },
     {
-      "23": "Case Study"
+      "9": "Ongoing project"
     },
     {
-      "24": "Qualitative analysis"
+      "10": "Report"
     },
     {
-      "25": "Quantitative survey, questionnaire, RCT"
+      "11": "Scientific Publication"
     },
     {
-      "26": "Modelling"
+      "12": "Press article, op-ed"
     },
     {
-      "27": "Action Research"
+      "13": "Policy Paper"
     },
     {
-      "28": "Citizen / Participatory Science"
+      "14": "Conference"
+    },
+    {
+      "15": "Webinar"
+    },
+    {
+      "16": "Blog"
+    },
+    {
+      "17": "Video"
+    },
+    {
+      "18": "Open call"
+    },
+    {
+      "19": "Digital Library"
+    },
+    {
+      "20": "MOOCs"
+    },
+    {
+      "21": "Other Resource"
     }
   ],
   "thematics": [

@@ -117,137 +117,7 @@
   "types": [
     {
       "value": 0,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 1,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 2,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 3,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 4,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 5,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 6,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 44,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 40,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 7,
       "urlMandatory": true,
-      "dateTime": false,
-      "timeInterval": true,
-      "requireName": false,
-      "teamMandatory": false,
-      "isContactable": false,
-      "citeWidget": false
-    },
-    {
-      "value": 21,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": true,
-      "requireName": false,
-      "teamMandatory": false,
-      "isContactable": true,
-      "citeWidget": false
-    },
-    {
-      "value": 8,
-      "urlMandatory": true,
-      "dateTime": false,
-      "timeInterval": true,
-      "requireName": false,
-      "teamMandatory": false,
-      "isContactable": false,
-      "citeWidget": false
-    },
-    {
-      "value": 9,
-      "urlMandatory": true,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 10,
-      "urlMandatory": false,
       "dateTime": true,
       "timeInterval": false,
       "requireName": true,
@@ -256,9 +126,99 @@
       "citeWidget": true
     },
     {
-      "value": 37,
-      "urlMandatory": false,
-      "dateTime": false,
+      "value": 1,
+      "urlMandatory": true,
+      "dateTime": true,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 2,
+      "urlMandatory": true,
+      "dateTime": true,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 3,
+      "urlMandatory": true,
+      "dateTime": true,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 4,
+      "urlMandatory": true,
+      "dateTime": true,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 5,
+      "urlMandatory": true,
+      "dateTime": true,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 6,
+      "urlMandatory": true,
+      "dateTime": true,
+      "timeInterval": true,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 7,
+      "urlMandatory": true,
+      "dateTime": true,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": false
+    },
+    {
+      "value": 8,
+      "urlMandatory": true,
+      "dateTime": true,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 9,
+      "urlMandatory": true,
+      "dateTime": true,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": true,
+      "isContactable": true,
+      "citeWidget": true
+    },
+    {
+      "value": 10,
+      "urlMandatory": true,
+      "dateTime": true,
       "timeInterval": false,
       "requireName": true,
       "teamMandatory": true,
@@ -268,7 +228,7 @@
     {
       "value": 11,
       "urlMandatory": true,
-      "dateTime": false,
+      "dateTime": true,
       "timeInterval": false,
       "requireName": true,
       "teamMandatory": true,
@@ -290,7 +250,7 @@
       "urlMandatory": true,
       "dateTime": true,
       "timeInterval": false,
-      "requireName": false,
+      "requireName": true,
       "teamMandatory": true,
       "isContactable": true,
       "citeWidget": true
@@ -300,17 +260,17 @@
       "urlMandatory": true,
       "dateTime": true,
       "timeInterval": false,
-      "requireName": false,
+      "requireName": true,
       "teamMandatory": true,
       "isContactable": true,
-      "citeWidget": true
+      "citeWidget": false
     },
     {
       "value": 15,
       "urlMandatory": true,
       "dateTime": true,
-      "timeInterval": true,
-      "requireName": false,
+      "timeInterval": false,
+      "requireName": true,
       "teamMandatory": true,
       "isContactable": true,
       "citeWidget": false
@@ -318,7 +278,7 @@
     {
       "value": 16,
       "urlMandatory": true,
-      "dateTime": false,
+      "dateTime": true,
       "timeInterval": false,
       "requireName": true,
       "teamMandatory": true,
@@ -328,8 +288,8 @@
     {
       "value": 17,
       "urlMandatory": true,
-      "dateTime": false,
-      "timeInterval": false,
+      "dateTime": true,
+      "timeInterval": true,
       "requireName": true,
       "teamMandatory": true,
       "isContactable": true,
@@ -343,132 +303,22 @@
       "requireName": true,
       "teamMandatory": true,
       "isContactable": true,
-      "citeWidget": true
+      "citeWidget": false
     },
     {
       "value": 19,
       "urlMandatory": true,
-      "dateTime": false,
+      "dateTime": true,
       "timeInterval": false,
-      "requireName": false,
+      "requireName": true,
       "teamMandatory": true,
       "isContactable": false,
-      "citeWidget": false
-    },
-    {
-      "value": 21,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 22,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 23,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 24,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 25,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 27,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 28,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 29,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 30,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 31,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 33,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
       "citeWidget": true
     },
     {
       "value": 20,
-      "urlMandatory": false,
-      "dateTime": false,
+      "urlMandatory": true,
+      "dateTime": true,
       "timeInterval": false,
       "requireName": true,
       "teamMandatory": true,
@@ -476,114 +326,14 @@
       "citeWidget": true
     },
     {
-      "value": 26,
-      "urlMandatory": false,
-      "dateTime": false,
+      "value": 21,
+      "urlMandatory": true,
+      "dateTime": true,
       "timeInterval": false,
       "requireName": true,
       "teamMandatory": true,
       "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 32,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 34,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 35,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 36,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 38,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 39,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 41,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 42,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 43,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
-    },
-    {
-      "value": 45,
-      "urlMandatory": false,
-      "dateTime": false,
-      "timeInterval": false,
-      "requireName": true,
-      "teamMandatory": true,
-      "isContactable": true,
-      "citeWidget": true
+      "citeWidget": false
     }
   ]
 }
