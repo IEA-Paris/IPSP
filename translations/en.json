@@ -38,7 +38,7 @@
     },
     "howProject": {
       "1": "Fill out the form and",
-      "2": "with basic information. To ensure visibility to your project, carefully select keywords for disciplines, themes and types of project.",
+      "2": "with basic information. To ensure visibility to your project, carefully select keywords for domains, themes and types of project.",
       "3": "Verify your contact email and get your URL to manage your project through a simple and secured token-based process, fully GDPR/ePR compliant.",
       "4": "Edit your project information (new team member, new results, new publication, new funding) at any time."
     },
@@ -395,7 +395,7 @@
       "url": "Contact URL"
     },
     "details": {
-      "field": "Project discipline(s)",
+      "field": "Project domain(s)",
       "thematic": "Project Thematic(s)",
       "status": "Actor(s)",
       "url": "Project URL",

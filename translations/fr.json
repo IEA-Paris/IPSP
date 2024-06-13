@@ -38,7 +38,7 @@
     },
     "howProject": {
       "1": "Remplissez le formulaire et",
-      "2": "Pour assurer la visibilité de votre projet, sélectionnez soigneusement les mots-clés relatifs aux disciplines, aux thèmes et aux types de projets.",
+      "2": "Pour assurer la visibilité de votre projet, sélectionnez soigneusement les mots-clés relatifs aux domaines, aux thèmes et aux types de projets.",
       "3": "Vérifiez votre courriel de contact et obtenez votre URL pour gérer votre projet grâce à un processus simple et sécurisé basé sur des jetons, entièrement conforme au GDPR/ePR.",
       "4": "Modifiez à tout moment les informations relatives à votre projet (nouveau membre de l'équipe, nouveaux résultats, nouvelle publication, nouveau financement)."
     },
@@ -131,7 +131,7 @@
       "filters": "Filtres",
       "filter": "Filtre",
       "action": "Recherche",
-      "placeholder": "Projets de recherche (mots-clés, institution, disciplines...)",
+      "placeholder": "Projets de recherche (mots-clés, institution, domaines...)",
       "allItems": "Tous les projets"
     },
     "faq": {
@@ -395,7 +395,7 @@
       "url": "URL de contact"
     },
     "details": {
-      "field": "Discipline(s) du projet",
+      "field": "Domaine(s) du projet",
       "thematic": "Thématique(s) du projet",
       "status": "Statut du projet",
       "url": "URL du projet",
