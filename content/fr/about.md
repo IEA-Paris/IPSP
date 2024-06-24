@@ -1,6 +1,7 @@
 ---
 version: 1
-title: À propos de IPSP
+title: À propos de l'IPSP
+date: 2024-06-24T09:51:00.000Z
 ---
 
 **IPSP** propose un répertoire mondial consultable des projets, initiatives et ressources scientifiques disponibles sur [les 17 buts de Développement Durable](https://sdgs.un.org/fr/goals) fixés par les Nations Unies.

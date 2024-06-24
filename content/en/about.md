@@ -1,6 +1,7 @@
 ---
 version: 1
 title: About IPSP
+date: 2024-06-24T09:51:00.000Z
 ---
 
 **IPSP** platform maintains a searchable global directory of the scientific projects, initiatives and resources available on [the 17 goals of Sustainable Development](https://sdgs.un.org/goals) set by the United Nations.
