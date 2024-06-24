@@ -1,6 +1,7 @@
 ---
 version: 11
 title: IPSP 2021 Conference
+date: 2024-06-24T15:34:00.000Z
 ---
 
 #IPSP21 is **the first international forum** for researchers and practitioners from all areas of expertise and backgrounds working **on the human, economic, and societal challenges of sustainable development**, giving them the opportunity **to present** ongoing projects, share and disseminate insights and results, and to make connections for future collaboration. IPSP is where the community meets.

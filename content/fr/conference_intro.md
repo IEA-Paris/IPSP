@@ -1,6 +1,7 @@
 ---
 title: La conférence IPSP 2021
 version: 11
+date: 2024-06-24T15:34:00.000Z
 ---
 
 #IPSP21 est **le premier forum international** pour les chercheurs et les praticiens de tous les domaines d'expertise et de tous les horizons qui travaillent **sur les impacts humains, économiques et sociétaux du développement durable**, leur donnant l'occasion **de présenter** des projets en cours, de partager et de diffuser des idées et des résultats, et d'établir des liens en vue de collaborations futures. IPSP : Favoriser l’intelligence collective au service de la recherche sur les impacts du Covid.
