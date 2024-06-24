@@ -1,6 +1,7 @@
 ---
 version: 1
 title: Guidance for video presentations
+date: 2024-06-24T15:33:00.000Z
 ---
 
 The following formal and technical requirements apply to all video presentations submitted to the conference, and videos that do not adhere to these guidelines **will not be included in the conference**.

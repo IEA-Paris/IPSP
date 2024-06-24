@@ -1,6 +1,7 @@
 ---
 title: Conseils pour les présentations vidéo
 version: 1
+date: 2024-06-24T15:33:00.000Z
 ---
 
 Les exigences formelles et techniques suivantes s'appliquent à toutes les présentations vidéo soumises à la conférence. Les vidéos qui ne respectent pas ces directives **ne seront pas incluses dans la conférence**.
