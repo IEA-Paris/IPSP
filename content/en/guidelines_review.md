@@ -1,6 +1,7 @@
 ---
 title: Review guidelines
 version: 6
+date: 2024-06-24T14:35:00.000Z
 ---
 
 **Purpose of Review:**
@@ -21,7 +22,7 @@ Papers must not be longer than 8 pages using the <a target="_blank" href="/confe
 
 - Reviews will form an integral part of the paper; writing clearly, coherently and in good form in the review is just as important as in the paper. Very short reviews can be frustrating for authors as they do not help them to improve their work. A high-quality review usually is between one and one and a half pages of text. The easiest way to make sure you produce a helpful review is imagining what level of feedback you would like to see yourself for your work.
 
-- The list of detailed questions, comments, and suggestions for the authors that address specific issues reviewers find with a paper should use <a target="_blank" href="https://IP4SP.org/conference/IPSP21_Review_Template.docx">this template</a> and will NOT be included in the final publication. Potential items on the list include but are not limited to: Spelling errors, mathematical errors, suggestions for revising the structure of the paper, asking for more detail on an argument or the description of the data collection process, further literature to be considered.
+- The list of detailed questions, comments, and suggestions for the authors that address specific issues reviewers find with a paper should use [this template](https://IP4SP.org/conference/IPSP21_Review_Template.docx) and will NOT be included in the final publication. Potential items on the list include but are not limited to: Spelling errors, mathematical errors, suggestions for revising the structure of the paper, asking for more detail on an argument or the description of the data collection process, further literature to be considered.
 
 - The commentary should be provided as a coherent text and discuss relevance, content, and the general contribution of the paper as well as potential shortcomings if applicable. It may also look out into the future and suggest further steps to be taken, or ways for implementation of the findings. Reviewer comments will be included in the final publication in the dedicated sections in the paper template.
 
