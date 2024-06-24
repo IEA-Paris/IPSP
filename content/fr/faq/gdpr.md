@@ -1,6 +1,7 @@
 ---
 version: 1
 title: IPSP est-il conforme au RGPD/ePR ?
+date: 2024-06-24T14:46:00.000Z
 ---
 
 Oui. Nous respectons les règles RGPD/ePR et même plus.
@@ -9,4 +10,4 @@ Nous ne traquons pas les utilisateurs et ne stockons aucune information en dehor
 
 Nous n'utilisons pas de cookies, à l'exception de [Google Recaptcha](https://en.wikipedia.org/wiki/ReCAPTCHA) afin de protéger nos formulaires contre les spams et les abus.
 
-Toute suggestion ou tout conseil est le bienvenu. N'hésitez pas à nous faire part de vos commentaires. <a style="text-decoration: underline;">contactez nous</a> si vous en avez.
+Toute suggestion ou tout conseil est le bienvenu. N'hésitez pas à nous faire part de vos commentaires. [Contactez nous](mailto:contact@ipsp.org) si vous en avez.
