@@ -1,6 +1,6 @@
 ---
 version: 1
-title: Pour qui est fait IPSP ?
+title: Pour qui est faite la plateforme de l'IPSP ?
 date: 2024-06-24T15:00:00.000Z
 ---
 
