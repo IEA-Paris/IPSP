@@ -1,6 +1,7 @@
 ---
 title: TOS de la conférence
 version: 2
+date: 2024-06-24T15:31:00.000Z
 ---
 
 ## QUAND ?
