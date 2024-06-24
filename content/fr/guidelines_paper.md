@@ -1,6 +1,7 @@
 ---
 title: Conseils pour les notes et articles de recherche
 version: 6
+date: 2024-06-24T15:30:00.000Z
 ---
 
 Les auteurs **qui ont participé à la conférence IPSP21** auront la possibilité de publier des notes de recherche (WIP track) ou des articles complets (Paper track) dans les actes officiels de la conférence avec un ISSN, et les articles complets feront l'objet d'une évaluation par les pairs. Conformément à l'esprit interactif de la conférence, le processus d'évaluation des publications aura lieu après la conférence pour permettre aux auteurs d'intégrer les commentaires de leurs présentations dans la version finale de leur note ou de leur article. Le processus d'évaluation sera également communautaire, et nous vous encourageons à vous porter volontaire et à participer autant que possible.

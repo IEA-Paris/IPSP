@@ -1,6 +1,7 @@
 ---
 version: 6
 title: Guidance for research notes & papers
+date: 2024-06-24T15:30:00.000Z
 ---
 
 Authors **who participated in IPSP21** will be given the option to publish research notes (WIP track) or full papers (Paper track) in official conference proceedings with an ISSN, and full papers will undergo peer-review. In keeping with the interactive spirit of the conference, the reviewing process for publications will take place after the conference to allow authors to incorporate feedback from their presentations into the final version of their note or paper. The reviewing process will also be community-based, and we encourage you to volunteer and engage as much as possible.
