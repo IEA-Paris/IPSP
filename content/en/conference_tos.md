@@ -1,6 +1,7 @@
 ---
 version: 2
 title: conference TOS
+date: 2024-06-24T15:31:00.000Z
 ---
 
 ## WHEN?
