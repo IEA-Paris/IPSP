@@ -1,17 +1,17 @@
 ---
 title: Credits
+date: 2024-06-25T15:39:00.000Z
 ---
+IPSP es un esfuerzo colectivo para promover la colaboración científica y el avance del conocimiento. Fue originado por el IAS de París y la Fundación RFIEA.
 
-Το IPSP είναι μια συλλογική προσπάθεια για την προώθηση της επιστημονικής συνεργασίας και της προόδου της γνώσης. Δημιουργήθηκε από τους [Παρίσι IAS](https://www.paris-iea.fr) και το [Ίδρυμα RFIEA](http://rfiea.fr/en).
+IPSP agradece a todos aquellos cuya contribución e inteligencia colectiva nos proporcionan a todos este recurso compartido. Un agradecimiento especial a Sophie de Bonis, responsable de diseño de IBM para el asesoramiento UX.
 
-Το IPSP ευχαριστεί όλους όσους με τη συμβολή τους και τη συλλογική τους ευφυΐα παρέχουν σε όλους εμάς αυτόν τον κοινό πόρο. Ιδιαίτερες ευχαριστίες στη Sophie de Bonis, επικεφαλής σχεδιασμού της IBM για τις συμβουλές UX.
+Se trata de una iniciativa sin ánimo de lucro financiada con fondos públicos.
 
-Πρόκειται για μια μη κερδοσκοπική πρωτοβουλία που χρηματοδοτείται από πόρους του δημοσίου.
+Agradecemos las donaciones para construir un bien público científico no rival. Si está interesado, póngase en contacto con: donations@IPSP.
 
-Δωρεές για την οικοδόμηση ενός μη ανταγωνιστικού επιστημονικού δημόσιου αγαθού είναι ευπρόσδεκτες. Αν ενδιαφέρεστε, επικοινωνήστε μαζί μας: [donations@IPSP](mailto:donations@IPSP).
+Este sitio web y su logotipo, así como su infraestructura, han sido diseñados por Antoine Cordelois. El frontend es estático/generado por lambda y funciona con Nuxt y Vuetify .
 
-Αυτός ο ιστότοπος και το λογότυπο, καθώς και η υποδομή του, έχουν σχεδιαστεί από τον [Antoine Cordelois](https://www.linkedin.com/in/antoine-cordelois/?locale=en_US). Το frontend είναι στατικό/lambda-generated και τροφοδοτείται από το [Nuxt](https://nuxtjs.org/) και [Vuetify](http://vuetifyjs.com) .
+El backend se basa en una API graphQL sin servidor/FAAS creada sobre el ecosistema de AWS y desplegada mediante Terraform.
 
-Το backend είναι χτισμένο γύρω από ένα graphQL API χωρίς διακομιστή/FAAS που βασίζεται στο [AWS ecosystem](https://aws.amazon.com/) και αναπτύσσεται χρησιμοποιώντας [Terraform](https://www.terraform.io/).
-
-The logo is based on an SVG file downloaded from [Wikipedia](https://en.wikipedia.org/wiki/File:Heart-hand-shake.svg) and designed by Ravi Poovaiah, Professor, IDC, IIT Bombay.
+El logotipo se basa en un archivo SVG descargado de Wikipedia y diseñado por Ravi Poovaiah, profesor de IDC, IIT Bombay.
