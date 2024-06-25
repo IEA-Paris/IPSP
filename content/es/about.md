@@ -1,12 +1,12 @@
 ---
 version: 1
 title: Acerca de IPSP
+date: 2024-06-25T15:36:00.000Z
 ---
+La plataforma IPSP funciona como una red digital en la que colaboradores y usuarios intercambian ideas, iniciativas, evaluaciones y movilizaciones en favor del progreso social. Está abierta a todos: particulares, empresarios, comunidades, organizaciones de base, redes, financiadores, filántropos, responsables políticos, etc. 
 
-**IPSP** plataforma mantiene un directorio global consultable de los proyectos científicos, iniciativas y recursos disponibles sobre los impactos sociales y humanos de la desarrollo sostenible.
+IPSP es gratuito, sin ánimo de lucro, financiado con fondos públicos y cumple con la GDPR.
 
-La IPSP es gratuita, sin ánimo de lucro, financiada con fondos públicos y cumple con el GDPR.
+Dirigido por un Consejo Científico Asesor internacional, IPSP cuenta entre sus instituciones asociadas con importantes redes e institutos científicos de todo el mundo.
 
-Dirigido por un internacional [Consejo Científico Asesor](/advisory_board) cuenta entre sus [instituciones asociadas](/institutions) principales redes e institutos científicos del mundo.
-
-**[Buscar proyectos](/search) para descubrir quién trabaja en qué, dónde, en tiempo real, a nivel mundial. Contribuya a esta iniciativa de inteligencia científica colectiva [registrar su proyecto](/register).**
+**Navegue por los proyectos para descubrir quién trabaja en qué, dónde, en tiempo real y a nivel mundial. Contribuya a esta iniciativa colectiva de inteligencia científica registrando su proyecto.**
