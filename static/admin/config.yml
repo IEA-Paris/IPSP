@@ -79,7 +79,7 @@ collections:
     folder: "content/institutions" # The path to the folder where the documents are stored
     sortable_fields: ["commit_date", "title", "commit_author"]
     create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{year}}-{{month}}-{{day}}-{{name}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - { label: "Name", name: "name", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
@@ -106,7 +106,7 @@ collections:
           widget: "image",
           required: false,
           media_folder: "/static/logos",
-          public_folder: "/",
+          public_folder: "",
         }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "resources" # Used in routes, e.g., /admin/collections/blog
@@ -114,9 +114,9 @@ collections:
     folder: "content/resources" # The path to the folder where the documents are stored
     sortable_fields: ["commit_date", "title", "commit_author"]
     media_folder: "static/resources"
-    public_folder: "/"
+    public_folder: ""
     create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Subtitle", name: "subtitle", widget: "string" }
@@ -154,12 +154,12 @@ collections:
     folder: "content/sab" # The path to the folder where the documents are stored
     sortable_fields: ["commit_date", "title", "commit_author"]
     create: true # Allow users to create new documents in this collection
-    slug: "{{firstname}}-{{lastname}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{lastname}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - { label: "Firstname", name: "firstname", widget: "string" }
       - { label: "Lastname", name: "lastname", widget: "string" }
       - { label: "Position", name: "position", widget: "string" }
-      - { label: "Role", name: "role", widget: "string" }
+      - { label: "Specialty", name: "role", widget: "string" }
       - {
           label: "Profile URL",
           name: "url",
@@ -176,7 +176,7 @@ collections:
           widget: "image",
           required: false,
           media_folder: "/static/board",
-          public_folder: "/",
+          public_folder: "",
         }
   - name: pressroom
     label: Pressroom
