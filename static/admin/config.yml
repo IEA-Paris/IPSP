@@ -78,7 +78,6 @@ collections:
     label: "Partner institutions" # Used in the UI
     folder: "content/institutions" # The path to the folder where the documents are stored
     sortable_fields: ["commit_date", "title", "commit_author"]
-    media_folder: ""
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -107,6 +106,7 @@ collections:
           widget: "image",
           required: false,
           media_folder: "/static/logos",
+          public_folder: "/",
         }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "resources" # Used in routes, e.g., /admin/collections/blog
@@ -114,6 +114,7 @@ collections:
     folder: "content/resources" # The path to the folder where the documents are stored
     sortable_fields: ["commit_date", "title", "commit_author"]
     media_folder: "static/resources"
+    public_folder: "/"
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -175,6 +176,7 @@ collections:
           widget: "image",
           required: false,
           media_folder: "/static/board",
+          public_folder: "/",
         }
   - name: pressroom
     label: Pressroom
