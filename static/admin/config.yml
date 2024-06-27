@@ -101,7 +101,13 @@ collections:
               "Please use a valid URL",
             ],
         }
-      - { label: "Picture", name: "image", widget: "image", required: false }
+      - {
+          label: "Picture",
+          name: "image",
+          widget: "image",
+          required: false,
+          media_folder: "/static/logos",
+        }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "resources" # Used in routes, e.g., /admin/collections/blog
     label: "Resources" # Used in the UI
@@ -163,7 +169,13 @@ collections:
               "Please use a valid URL",
             ],
         }
-      - { label: "Picture", name: "picture", widget: "image", required: false }
+      - {
+          label: "Picture",
+          name: "picture",
+          widget: "image",
+          required: false,
+          media_folder: "/static/board",
+        }
   - name: pressroom
     label: Pressroom
     media_folder: "static/press_releases"
