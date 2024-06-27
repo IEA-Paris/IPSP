@@ -154,7 +154,7 @@ collections:
     folder: "content/sab" # The path to the folder where the documents are stored
     sortable_fields: ["commit_date", "title", "commit_author"]
     create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{firstname}}-{{lastname}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - { label: "Firstname", name: "firstname", widget: "string" }
       - { label: "Lastname", name: "lastname", widget: "string" }
@@ -255,19 +255,3 @@ collections:
                     ],
                 },
             }
-  - name: translations
-    label: Translations
-    extension: "json"
-    editor:
-      preview: false
-    files:
-      - file: "translations/en.json"
-        label: "English"
-        name: "english"
-        fields:
-          - { name: body, label: Body, widget: code }
-      - file: "translations/fr.json"
-        label: "French"
-        name: "french"
-        fields:
-          - { name: body, label: Body, widget: code }
