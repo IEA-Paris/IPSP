@@ -1,12 +1,12 @@
 ---
 version: 1
 title: About IPSP
+date: 2024-06-24T09:51:00.000Z
 ---
-
-**IPSP** platform maintains a searchable global directory of the scientific projects, initiatives and resources available on [the 17 goals of Sustainable Development](https://sdgs.un.org/goals) set by the United Nations.
+**IPSP** **platform** operates as a digital network on which contributors and users exchange ideas, initiatives, assessments and mobilizations for social progress. It is open to all: individuals, entrepreneurs, communities, grass-root organizations, networks, funders, philanthropists, policymakers, etc. 
 
 IPSP is free, non-profit, public-funded, and GDPR compliant.
 
-Steered by an international [Scientific Advisory board](advisory_board), it counts among its [partner institutions](institutions) major scientific networks and institutes worldwide.
+Steered by an international [Scientific Advisory board](advisory_board), IPSP counts among its [partner institutions](institutions) major scientific networks and institutes worldwide.
 
 **[Browse projects](search) to discover who works on what, where, in real-time, at a global level. Contribute to this collective scientific intelligence initiative by [registering your project](register).**
