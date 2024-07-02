@@ -5,3 +5,4 @@ color: "#FFFFFF"
 url: https://www.cornell.edu/
 image: https://www.ipsp.org/wp-content/uploads/2015/07/cornellu.png
 ---
+Cornell University is a world-class university located in New-York, USA.
