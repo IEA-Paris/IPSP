@@ -5,3 +5,4 @@ color: "#FFFFFF"
 url: https://globalassembly.org/
 image: https://www.ipsp.org/wp-content/uploads/2024/05/Global-assembly-1-1280x516.jpg
 ---
+Global Assembly is a global NGO aiming at creating a permanent global citizens assembly by 2030.
