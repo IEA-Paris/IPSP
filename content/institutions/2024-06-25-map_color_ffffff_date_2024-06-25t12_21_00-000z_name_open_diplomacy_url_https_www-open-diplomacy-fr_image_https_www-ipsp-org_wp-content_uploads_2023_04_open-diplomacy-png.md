@@ -5,3 +5,4 @@ color: "#FFFFFF"
 url: https://www.open-diplomacy.fr/
 image: https://www.ipsp.org/wp-content/uploads/2024/07/Open-diplomacy.png
 ---
+Open Diplomacy is a french think-tank focused on global governance and sustainability.
