@@ -1,6 +1,6 @@
 ---
 version: 1
-title: How do I register my project on IPSP?
+title: How do I register my project ?
 date: 2024-06-24T15:12:00.000Z
 ---
 
