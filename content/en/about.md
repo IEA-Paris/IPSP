@@ -3,10 +3,16 @@ version: 1
 title: About IPSP
 date: 2024-06-24T09:51:00.000Z
 ---
-**IPSP** **platform** operates as a digital network on which contributors and users exchange ideas, initiatives, assessments and mobilizations for social progress. It is open to all: individuals, entrepreneurs, communities, grass-root organizations, networks, funders, philanthropists, policymakers, etc. 
+The **International Platform for Social Progress** is an online project-based hub developed by the International Panel on Social Progress.
 
-IPSP is free, non-profit, public-funded, and GDPR compliant.
+It proposes a **searchable global directory of innovative and inspiring initiatives** that spur social progress in society.
 
-Steered by an international [Scientific Advisory board](advisory_board), IPSP counts among its [partner institutions](institutions) major scientific networks and institutes worldwide.
+The showcased initiatives are **validated by the IPSP Secretariat with the support of a decentralized, multidisciplinary and cross-sectoral expert community**.
 
-**[Browse projects](search) to discover who works on what, where, in real-time, at a global level. Contribute to this collective scientific intelligence initiative by [registering your project](register).**
+The platform is steered by the IPSP International Advisory Board and partners with large international institutions, organizations, and networks worldwide.
+
+The platform is **free, non-profit, public-funded, and fully GDPR and EPR compliant**.
+
+[**Browse projects**](/search) to discover what the best initiatives and how they can be replicated.
+
+Contribute to this collective intelligence hub and [**register**](/register) your initiative.
