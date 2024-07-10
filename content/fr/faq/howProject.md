@@ -1,6 +1,7 @@
 ---
 version: 1
-title: Comment enregistrer mon projet sur IPSP ?
+title: Comment enregistrer mon projet ?
+date: 2024-06-01T11:47:00.000Z
 ---
 
 - Remplissez le formulaire et [enregistrer votre projet](https://IP4SP.org/register) Pour assurer la visibilité de votre projet, sélectionnez soigneusement les mots-clés relatifs aux disciplines, aux thèmes et aux types de projets.
