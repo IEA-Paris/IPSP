@@ -1,7 +1,7 @@
 ---
 version: 1
 title: Pour qui est faite la plateforme de l'IPSP ?
-date: 2024-06-24T15:00:00.000Z
+date: 2024-06-02T00:00:00.000Z
 ---
 
 La plateforme de l'IPSP est un répertoire mondial de projets, d'initiatives et de ressources ouvert à la consultation de tous : chercheurs, financeurs, gouvernements, médias et grand public.
