@@ -1,11 +1,11 @@
 ---
 version: 1
 title: I would like to promote IPSP, how should I proceed?
+date: 2024-06-06T00:00:00.000Z
 ---
-
 First, thank you very much for your support!
 
-If you want to promote IPSP as an initiative, you can use our social media channels. Their links can be found in the footer of every page. You can also use the resources of our [pressroom](https://IP4SP.org/press_room).
+If you would like to promote IPSP as an initiative, you can use our social networks by following us on our [LinkedIn ](https://www.linkedin.com/company/international-panel-on-social-progress-ipsp)page. You can also use our [website ](https://www.ipsp.org/)resources and contact the [pressroom](https://IP4SP.org/press_room).
 
 If you want to promote a particular project of IPSP, you can use the social share widgets of the share button <v-avatar color="primary" size="24"><v-icon dark small> mdi-share-variant </v-icon> </v-avatar>. The short IPSP URL with IPSP-ID number of your project is also handy as an email footer.
 
