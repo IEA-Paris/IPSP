@@ -1,7 +1,7 @@
 ---
 version: 1
-title: How do I register my project on IPSP?
-date: 2024-06-24T15:12:00.000Z
+title: How do I register my project ?
+date: 2024-06-01T00:00:00.000Z
 ---
 
 - Fill out the form and [register your project](/register) with basic information. To ensure visibility to your project, carefully select keywords for disciplines, themes and types of project.
