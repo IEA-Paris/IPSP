@@ -1,7 +1,7 @@
 ---
 version: 1
 title: IPSP est-il conforme au RGPD/ePR ?
-date: 2024-06-24T14:46:00.000Z
+date: 2024-06-03T00:00:00.000Z
 ---
 
 Oui. Nous respectons les règles RGPD/ePR et même plus.
