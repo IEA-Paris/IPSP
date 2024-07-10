@@ -1,7 +1,7 @@
 ---
 version: 1
 title: Je souhaite faire la promotion de l'IPSP, comment dois-je procéder ?
-date: 2024-06-24T14:54:00.000Z
+date: 2024-06-06T00:00:00.000Z
 ---
 Tout d'abord, merci beaucoup pour votre soutien !
 
