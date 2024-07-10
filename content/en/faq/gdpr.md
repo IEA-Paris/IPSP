@@ -1,7 +1,7 @@
 ---
 version: 1
 title: Does IPSP comply with the GDPR/ePR?
-date: 2024-06-24T15:10:00.000Z
+date: 2024-06-03T00:00:00.000Z
 ---
 
 Yes. We respect GDPR/ePR rules and even more.
