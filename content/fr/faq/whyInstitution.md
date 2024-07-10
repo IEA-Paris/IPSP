@@ -1,7 +1,7 @@
 ---
 version: 1
 title: Quels sont les avantages à devenir partenaire pour mon institution ?
-date: 2024-06-24T15:03:00.000Z
+date: 2024-06-07T00:00:00.000Z
 ---
 
 - Participer à un effort mondial pour résoudre la crise
