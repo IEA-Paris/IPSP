@@ -1,7 +1,7 @@
 ---
 version: 1
 title: I would like to promote IPSP, how should I proceed?
-date: 2024-06-25T15:54:00.000Z
+date: 2024-06-06T00:00:00.000Z
 ---
 First, thank you very much for your support!
 
