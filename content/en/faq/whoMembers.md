@@ -1,7 +1,7 @@
 ---
 version: 1
 title: To whom the platform is useful?
-date: 2024-07-04T15:58:00.000Z
+date: 2024-06-02T00:00:00.000Z
 ---
 IPSP is an edited global directory of initiatives that functions as an online platform open for all to browse: civil society actors, researchers, funders, governments, media, and the general public alike.
 
