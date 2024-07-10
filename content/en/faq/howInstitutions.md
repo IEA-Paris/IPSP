@@ -1,6 +1,7 @@
 ---
 version: 1
 title: How can my Institution become partner?
+date: 2024-06-05T00:00:00.000Z
 ---
 
 - Provide a short abstract describing your organization
