@@ -1,6 +1,7 @@
 ---
 version: 1
 title: Comment mon institution peut-elle devenir un partenaire ?
+date: 2024-06-05T00:00:00.000Z
 ---
 
 - Fournissez un court résumé décrivant votre organisation
