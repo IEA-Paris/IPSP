@@ -1,7 +1,7 @@
 {
   "root": {
     "name": "ipsp",
-    "fullName": "International Panel on Social Progress",
+    "fullName": "International Platform for Social Progress",
     "subtitle": "",
     "description": "",
     "reCaptcha": "6Lc9cOwpAAAAAMc5DaKg6Ml1Nk1b_UJBu-dEc4sv",
@@ -10,9 +10,19 @@
     "item_sg": "Project",
     "item_pl": "Projects",
     "isBranch": false,
-    "titleInLogo": true,
-    "titleBackdrop": false,
+    "titleInLogo": false,
+    "titleBackdrop": true,
     "statsImage": "parallax.jpg",
+    "socials": {
+      "github": "https://github.com/IEA-Paris/IPSP",
+      "facebook": "",
+      "twitter": "",
+      "linkedin": "https://www.linkedin.com/company/international-panel-on-social-progress-ipsp",
+      "instagram": "",
+      "youtube": "",
+      "discord": "",
+      "website": "https://www.ipsp.org/"
+    },
     "logo": {
       "file": "icon.png",
       "fileSmallLight": "icon.png",
@@ -59,8 +69,8 @@
       "default": "fr"
     },
     "count": {
-      "institutions": 16,
-      "referents": 17
+      "institutions": 20,
+      "referents": 92
     },
     "font": {
       "family": {

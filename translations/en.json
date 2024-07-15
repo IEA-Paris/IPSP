@@ -19,70 +19,6 @@
     "subtitle": "Societal impacts and aftermath of Covid-19:<br> A global searchable directory"
   },
   "content": {
-    "blazon": "Some partnering institutions (funding institutions, learned societies, etc.) can signal projects that have undergone a peer-review process. They can stamp these projects on IPSP with their blazon, which is a label that vets the project with the institution’s cognitive authority.",
-    "expectations": "Contributors should be straight to the point of what they are doing and what is the added value of their project. The abstract should be brief, informative and self-explanatory, very explicit about the problem addressed, the research question, the methodology, the data set, the team, and the expected outcome. A link can be provided to a webpage containing a more detailed description and material.",
-    "gdpr": {
-      "1": "Yes. We respect GDPR/ePR rules and even more.",
-      "2": "We do not track users or store any information outside of the project definition scope. A basic and anonymous browser fingerprint is stored only to estimate unique project views and improve our project ranking feature. We do not disclose or sell email addresses or any other personal information.",
-      "3": "We do not use cookies except for those of",
-      "4": "in order to protect our forms against spam and abuse.",
-      "5": "We welcome every suggestion or advice, so please do not hesitate to",
-      "6": "if you have any."
-    },
-    "howInstitution": {
-      "1": "Provide a short abstract describing your organization",
-      "2": "Provide the names of 5 potential referents",
-      "3": "Ask your members/affiliates to register their relevant projects on IPSP",
-      "4": "Send all of the above information at",
-      "5": "We will get back to you in a matter of days"
-    },
-    "howProject": {
-      "1": "Fill out the form and",
-      "2": "with basic information. To ensure visibility to your project, carefully select keywords for domains, themes and types of project.",
-      "3": "Verify your contact email and get your URL to manage your project through a simple and secured token-based process, fully GDPR/ePR compliant.",
-      "4": "Edit your project information (new team member, new results, new publication, new funding) at any time."
-    },
-    "howReferent": {
-      "1": "IPSP referents are senior scientists with vast experience; they operate pro bono for the benefit of the community. A list of",
-      "2": "is published on the IPSP website. The International Scientific Advisory Board validates admission to the IPSP communities of referents."
-    },
-    "promote": {
-      "1": "First, thank you very much for your support!",
-      "2": "If you want to promote IPSP as an initiative, you can use our social media channels. Their links can be found in the footer of every page. You can also use the resources of our ",
-      "3": "If you want to promote a particular project of IPSP, you can use the social share widgets of the share button",
-      "4": ". The short IPSP URL with the IPSP-ID number of your project is also handy as an email footer.",
-      "5": "On every IPSP project page. If you plan to share a project with a large audience, we advise you to give a heads up to the project contact using the \"Email this project contact\" button of the related project page."
-    },
-    "whoMembers": {
-      "1": "IPSP is an edited global directory of projects, initiatives and resources that functions as an open platform open for all to browse: researchers, funders, governments, media, and the general public alike.",
-      "2": "We have three type of contributors:",
-      "3": "Project leaders",
-      "4": " who register their project on IPSP, update it, receive alerts and offers for collaboration and funding.",
-      "5": " who are aware of new projects in their domain, screen them, flag those they consider most innovative and interesting.",
-      "6": " that request their members to register projects, publish calls and fund projects, stamp their blazon on flagged projects, provide high-level scholars as referents."
-    },
-    "whoReferent": {
-      "1": "IPSP referents are senior scientists with vast experience; they operate",
-      "2": "pro bono",
-      "3": "for the benefit of the community. A",
-      "4": "list of referents",
-      "5": " is published on the IPSP website. The International",
-      "6": "validates admission to the IPSP communities of referents."
-    },
-    "whyInstitution": {
-      "1": "Participate in a global effort to solve the crisis",
-      "2": "Showcase the work of your members and affiliates",
-      "3": "Put your blazon on the projects you vet or support",
-      "4": "Publish your calls and important initiatives",
-      "5": "Use IPSP as a brick of infrastructure to follow the projects of your members and affiliates. These bricks of service (tag, search, follow) are provided for free."
-    },
-    "whyProject": {
-      "1": "Give more visibility to your project via a dedicated webpage on {0} with a link to your own.",
-      "2": "Be notified of and get access to projects matching your interests (by browsing the project list, getting contact requests and update alerts).",
-      "3": "Get a time-stamped {0}-ID that enables to be cited even before you publish.",
-      "4": "Get feedback from IPSP referents and have your project featured.",
-      "5": "Attract visibility from funders to support your project"
-    },
     "process": {
       "text1": "IPSP features resources that have been filtered, tagged, and indexed, screened by bots first and validated by human experts second.",
       "upload": "Upload of a project",
@@ -219,7 +155,8 @@
       "linkedin": "Visit our Linkedin page",
       "facebook": "Visit our Facebook page",
       "shareOn": "Share this project on",
-      "shareBy": "Share this project by"
+      "shareBy": "Share this project by",
+      "website": "Visit our website"
     },
     "recaptcha": "Google Recaptcha",
     "registerYour": "Register your",
@@ -580,6 +517,9 @@
     },
     {
       "21": "Other Resource"
+    },
+    {
+      "22": "Application"
     }
   ],
   "thematics": [
@@ -635,6 +575,9 @@
       "10": "Ecological rule of law"
     },
     {
+      "16": "Global Health"
+    },
+    {
       "promoting-human-security-and-global-solidarity": "Promoting human security and global solidarity"
     },
     {
@@ -682,7 +625,7 @@
     "31": "Technology",
     "32": "Violence and conflicts"
   },
-  "states": [
+  "state": [
     {
       "3": "Academia"
     },
