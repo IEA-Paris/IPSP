@@ -46,12 +46,12 @@
   },
   "pages": {
     "sab": {
-      "title": "Scientific Advisory board"
+      "title": "Advisory board"
     },
     "partners": {
       "title": "Partner institutions",
       "text": "IPSP is supported by:",
-      "text2": "All applications will be reviewed by the Scientific Advisory Board.",
+      "text2": "All applications will be reviewed by the Advisory Board.",
       "text3": "To join IPSP and become a partner, contact",
       "whyInstitution": "Why should my institution become partner?",
       "howInstitution": "How do my institution become partner?"
@@ -86,7 +86,7 @@
     },
     "referents": {
       "title": "Referents",
-      "text": "IPSP referents are senior scientists with vast experience, selected by the Scientific Advisory Board; they operate pro bono for the benefit of the community. Their task is to validate IPSP projects."
+      "text": "IPSP referents are senior scientists with vast experience, selected by the Advisory Board; they operate pro bono for the benefit of the community. Their task is to validate IPSP projects."
     },
     "register": {
       "title": "Register your project"

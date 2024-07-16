@@ -3,7 +3,7 @@ version: 1
 title: About IPSP
 date: 2024-06-24T09:51:00.000Z
 ---
-The **International Platform for Social Progress** is an online project-based hub developed by the International Panel on Social Progress.
+**The International Platform for Social Progress is an online project-based hub developed by the International Panel on Social Progress.**
 
 It proposes a **searchable global directory of innovative and inspiring initiatives** that spur social progress in society.
 
