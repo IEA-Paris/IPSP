@@ -11,7 +11,7 @@
     "item_pl": "Projects",
     "isBranch": false,
     "titleInLogo": false,
-    "titleBackdrop": true,
+    "titleBackdrop": false,
     "statsImage": "parallax.jpg",
     "socials": {
       "github": "https://github.com/IEA-Paris/IPSP",
