@@ -344,6 +344,16 @@
       "teamMandatory": true,
       "isContactable": true,
       "citeWidget": false
+    },
+    {
+      "value": 22,
+      "urlMandatory": true,
+      "dateTime": false,
+      "timeInterval": false,
+      "requireName": true,
+      "teamMandatory": false,
+      "isContactable": true,
+      "citeWidget": true
     }
   ]
 }
