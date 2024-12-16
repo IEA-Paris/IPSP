@@ -1,5 +1,6 @@
 ---
 title: Credits
+date: 2024-06-25T15:39:00.000Z
 ---
 
 IPSP（Word Pandemic Research Network）は、科学的な協力と知識の向上を促進するための集団的な取り組みです。 これは、以下の人々によって始められました。 [パリ IAS](https://www.paris-iea.fr) Paris IAS と [RFIEA 財団](http://rfiea.fr/en).

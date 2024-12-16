@@ -1,5 +1,6 @@
 ---
 title: Credits
+date: 2024-06-25T15:39:00.000Z
 ---
 
 IPSP ist eine kollektive Anstrengung zur Förderung der wissenschaftlichen Zusammenarbeit und des Wissensfortschritts. Es wurde ins Leben gerufen von [Paris IAS](https://www.paris-iea.fr) und die [RFIEA-Stiftung](http://rfiea.fr/en).
